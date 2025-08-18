@@ -1,0 +1,26 @@
+# Makefile pour la démonstration AODV
+# Makefile for AODV demonstration
+#
+# Auteur / Author: Madani Belacel
+# Date de création / Created: 18/03/2023
+# Dernière mise à jour / Last updated: 25/04/2023
+# 
+# Configuration de compilation pour la démonstration AODV
+# Compilation configuration for AODV demonstration
+
+CONTIKI_PROJECT = aodv-demo
+all: $(CONTIKI_PROJECT)
+
+# Chemin vers Contiki-NG / Path to Contiki-NG
+CONTIKI = ../../../
+
+# Fichier source AODV / AODV source file
+PROJECT_SOURCEFILES += aodv-demo.c
+PROJECT_CONF_PATH = ./
+
+# Modules réseau requis / Required network modules
+MODULES += core/net/ipv6 core/net/ipv6/uip-nd6 core/net/ipv6/uip-ds6 \
+           core/net/ipv6/uip-icmp6 core/net/ipv6/uip-udp
+
+# Inclusion du Makefile principal / Include main Makefile
+include $(CONTIKI)/Makefile.include 

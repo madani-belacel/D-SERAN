@@ -1,0 +1,2836 @@
+Random seed: 12345
+[INFO: Main      ] - Routing: RPL Lite
+[INFO: Main      ] - Net: sicslowpan
+[INFO: Main      ] - MAC: CSMA
+[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+[INFO: Main      ] - 802.15.4 Default channel: 26
+[INFO: Main      ] Node ID: 0
+[INFO: Main      ] Link-layer address: 0000.0000.0000.0000
+[INFO: Main      ] Tentative link-local IPv6 address: fe80::200:0:0:0
+[INFO: Main      ] Starting Contiki-NG-develop/v5.0-51-g1d9dcfbd6-dirty
+[INFO: Main      ] - Routing: RPL Lite
+[INFO: Main      ] - Net: sicslowpan
+[INFO: Main      ] - MAC: CSMA
+[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+[INFO: Main      ] - 802.15.4 Default channel: 26
+[INFO: Main      ] Node ID: 0
+[INFO: Main      ] Link-layer address: 0000.0000.0000.0000
+[INFO: Main      ] Tentative link-local IPv6 address: fe80::200:0:0:0
+[INFO: Main      ] Starting Contiki-NG-develop/v5.0-51-g1d9dcfbd6-dirty
+[INFO: Main      ] - Routing: RPL Lite
+[INFO: Main      ] - Net: sicslowpan
+[INFO: Main      ] - MAC: CSMA
+[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+[INFO: Main      ] - 802.15.4 Default channel: 26
+[INFO: Main      ] Node ID: 0
+[INFO: Main      ] Link-layer address: 0000.0000.0000.0000
+[INFO: Main      ] Tentative link-local IPv6 address: fe80::200:0:0:0
+[INFO: Main      ] Starting Contiki-NG-develop/v5.0-51-g1d9dcfbd6-dirty
+[INFO: Main      ] - Routing: RPL Lite
+[INFO: Main      ] - Net: sicslowpan
+[INFO: Main      ] - MAC: CSMA
+[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+[INFO: Main      ] - 802.15.4 Default channel: 26
+[INFO: Main      ] Node ID: 0
+[INFO: Main      ] Link-layer address: 0000.0000.0000.0000
+[INFO: Main      ] Tentative link-local IPv6 address: fe80::200:0:0:0
+[INFO: Main      ] Starting Contiki-NG-develop/v5.0-51-g1d9dcfbd6-dirty
+[INFO: Main      ] - Routing: RPL Lite
+[INFO: Main      ] - Net: sicslowpan
+[INFO: Main      ] - MAC: CSMA
+[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+[INFO: Main      ] - 802.15.4 Default channel: 26
+[INFO: Main      ] Node ID: 0
+[INFO: Main      ] Link-layer address: 0000.0000.0000.0000
+[INFO: Main      ] Tentative link-local IPv6 address: fe80::200:0:0:0
+[INFO: Main      ] Starting Contiki-NG-develop/v5.0-51-g1d9dcfbd6-dirty
+[INFO: Main      ] - Routing: RPL Lite
+[INFO: Main      ] - Net: sicslowpan
+[INFO: Main      ] - MAC: CSMA
+[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+[INFO: Main      ] - 802.15.4 Default channel: 26
+[INFO: Main      ] Node ID: 0
+[INFO: Main      ] Link-layer address: 0000.0000.0000.0000
+[INFO: Main      ] Tentative link-local IPv6 address: fe80::200:0:0:0
+[INFO: Main      ] Starting Contiki-NG-develop/v5.0-51-g1d9dcfbd6-dirty
+[INFO: Main      ] - Routing: RPL Lite
+[INFO: Main      ] - Net: sicslowpan
+[INFO: Main      ] - MAC: CSMA
+[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+[INFO: Main      ] - 802.15.4 Default channel: 26
+[INFO: Main      ] Node ID: 0
+[INFO: Main      ] Link-layer address: 0000.0000.0000.0000
+[INFO: Main      ] Tentative link-local IPv6 address: fe80::200:0:0:0
+[INFO: Main      ] Starting Contiki-NG-develop/v5.0-51-g1d9dcfbd6-dirty
+[INFO: Main      ] - Routing: RPL Lite
+[INFO: Main      ] - Net: sicslowpan
+[INFO: Main      ] - MAC: CSMA
+[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+[INFO: Main      ] - 802.15.4 Default channel: 26
+[INFO: Main      ] Node ID: 0
+[INFO: Main      ] Link-layer address: 0000.0000.0000.0000
+[INFO: Main      ] Tentative link-local IPv6 address: fe80::200:0:0:0
+[INFO: Main      ] Starting Contiki-NG-develop/v5.0-51-g1d9dcfbd6-dirty
+[INFO: Main      ] - Routing: RPL Lite
+[INFO: Main      ] - Net: sicslowpan
+[INFO: Main      ] - MAC: CSMA
+[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+[INFO: Main      ] - 802.15.4 Default channel: 26
+[INFO: Main      ] Node ID: 0
+[INFO: Main      ] Link-layer address: 0000.0000.0000.0000
+[INFO: Main      ] Tentative link-local IPv6 address: fe80::200:0:0:0
+[INFO: Main      ] Starting Contiki-NG-develop/v5.0-51-g1d9dcfbd6-dirty
+[INFO: Main      ] - Routing: RPL Lite
+[INFO: Main      ] - Net: sicslowpan
+[INFO: Main      ] - MAC: CSMA
+[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+[INFO: Main      ] - 802.15.4 Default channel: 26
+[INFO: Main      ] Node ID: 0
+[INFO: Main      ] Link-layer address: 0000.0000.0000.0000
+[INFO: Main      ] Tentative link-local IPv6 address: fe80::200:0:0:0
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 1 10001
+[INFO: AODV-DEMO ] ENERGY 99 10001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 1 10001
+[INFO: AODV-DEMO ] ENERGY 99 10001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 1 10001
+[INFO: AODV-DEMO ] ENERGY 99 10001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 1 10001
+[INFO: AODV-DEMO ] ENERGY 99 10001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 1 10001
+[INFO: AODV-DEMO ] ENERGY 99 10001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 1 10001
+[INFO: AODV-DEMO ] ENERGY 99 10001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 1 10001
+[INFO: AODV-DEMO ] ENERGY 99 10001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 1 10001
+[INFO: AODV-DEMO ] ENERGY 99 10001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 1 10001
+[INFO: AODV-DEMO ] ENERGY 99 10001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 1 10001
+[INFO: AODV-DEMO ] ENERGY 99 10001
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 2 20001
+[INFO: AODV-DEMO ] ENERGY 98 20001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 2 20001
+[INFO: AODV-DEMO ] ENERGY 98 20001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 2 20001
+[INFO: AODV-DEMO ] ENERGY 98 20001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 2 20001
+[INFO: AODV-DEMO ] ENERGY 98 20001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 2 20001
+[INFO: AODV-DEMO ] ENERGY 98 20001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 2 20001
+[INFO: AODV-DEMO ] ENERGY 98 20001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 2 20001
+[INFO: AODV-DEMO ] ENERGY 98 20001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 2 20001
+[INFO: AODV-DEMO ] ENERGY 98 20001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 2 20001
+[INFO: AODV-DEMO ] ENERGY 98 20001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 2 20001
+[INFO: AODV-DEMO ] ENERGY 98 20001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 3 30001
+[INFO: AODV-DEMO ] ENERGY 97 30001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 3 30001
+[INFO: AODV-DEMO ] ENERGY 97 30001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 3 30001
+[INFO: AODV-DEMO ] ENERGY 97 30001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 3 30001
+[INFO: AODV-DEMO ] ENERGY 97 30001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 3 30001
+[INFO: AODV-DEMO ] ENERGY 97 30001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 3 30001
+[INFO: AODV-DEMO ] ENERGY 97 30001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 3 30001
+[INFO: AODV-DEMO ] ENERGY 97 30001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 3 30001
+[INFO: AODV-DEMO ] ENERGY 97 30001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 3 30001
+[INFO: AODV-DEMO ] ENERGY 97 30001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 3 30001
+[INFO: AODV-DEMO ] ENERGY 97 30001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 4 40001
+[INFO: AODV-DEMO ] ENERGY 96 40001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 4 40001
+[INFO: AODV-DEMO ] ENERGY 96 40001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 4 40001
+[INFO: AODV-DEMO ] ENERGY 96 40001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 4 40001
+[INFO: AODV-DEMO ] ENERGY 96 40001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 4 40001
+[INFO: AODV-DEMO ] ENERGY 96 40001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 4 40001
+[INFO: AODV-DEMO ] ENERGY 96 40001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 4 40001
+[INFO: AODV-DEMO ] ENERGY 96 40001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 4 40001
+[INFO: AODV-DEMO ] ENERGY 96 40001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 4 40001
+[INFO: AODV-DEMO ] ENERGY 96 40001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 4 40001
+[INFO: AODV-DEMO ] ENERGY 96 40001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 5 50001
+[INFO: AODV-DEMO ] ENERGY 95 50001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 5 50001
+[INFO: AODV-DEMO ] ENERGY 95 50001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 5 50001
+[INFO: AODV-DEMO ] ENERGY 95 50001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 5 50001
+[INFO: AODV-DEMO ] ENERGY 95 50001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 5 50001
+[INFO: AODV-DEMO ] ENERGY 95 50001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 5 50001
+[INFO: AODV-DEMO ] ENERGY 95 50001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 5 50001
+[INFO: AODV-DEMO ] ENERGY 95 50001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 5 50001
+[INFO: AODV-DEMO ] ENERGY 95 50001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 5 50001
+[INFO: AODV-DEMO ] ENERGY 95 50001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 5 50001
+[INFO: AODV-DEMO ] ENERGY 95 50001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 6 60001
+[INFO: AODV-DEMO ] ENERGY 94 60001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 6 60001
+[INFO: AODV-DEMO ] ENERGY 94 60001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 6 60001
+[INFO: AODV-DEMO ] ENERGY 94 60001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 6 60001
+[INFO: AODV-DEMO ] ENERGY 94 60001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 6 60001
+[INFO: AODV-DEMO ] ENERGY 94 60001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 6 60001
+[INFO: AODV-DEMO ] ENERGY 94 60001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 6 60001
+[INFO: AODV-DEMO ] ENERGY 94 60001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 6 60001
+[INFO: AODV-DEMO ] ENERGY 94 60001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 6 60001
+[INFO: AODV-DEMO ] ENERGY 94 60001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 6 60001
+[INFO: AODV-DEMO ] ENERGY 94 60001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 7 70001
+[INFO: AODV-DEMO ] ENERGY 93 70001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 7 70001
+[INFO: AODV-DEMO ] ENERGY 93 70001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 7 70001
+[INFO: AODV-DEMO ] ENERGY 93 70001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 7 70001
+[INFO: AODV-DEMO ] ENERGY 93 70001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 7 70001
+[INFO: AODV-DEMO ] ENERGY 93 70001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 7 70001
+[INFO: AODV-DEMO ] ENERGY 93 70001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 7 70001
+[INFO: AODV-DEMO ] ENERGY 93 70001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 7 70001
+[INFO: AODV-DEMO ] ENERGY 93 70001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 7 70001
+[INFO: AODV-DEMO ] ENERGY 93 70001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 7 70001
+[INFO: AODV-DEMO ] ENERGY 93 70001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 8 80001
+[INFO: AODV-DEMO ] ENERGY 92 80001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 8 80001
+[INFO: AODV-DEMO ] ENERGY 92 80001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 8 80001
+[INFO: AODV-DEMO ] ENERGY 92 80001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 8 80001
+[INFO: AODV-DEMO ] ENERGY 92 80001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 8 80001
+[INFO: AODV-DEMO ] ENERGY 92 80001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 8 80001
+[INFO: AODV-DEMO ] ENERGY 92 80001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 8 80001
+[INFO: AODV-DEMO ] ENERGY 92 80001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 8 80001
+[INFO: AODV-DEMO ] ENERGY 92 80001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 8 80001
+[INFO: AODV-DEMO ] ENERGY 92 80001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 8 80001
+[INFO: AODV-DEMO ] ENERGY 92 80001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 9 90001
+[INFO: AODV-DEMO ] ENERGY 91 90001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 9 90001
+[INFO: AODV-DEMO ] ENERGY 91 90001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 9 90001
+[INFO: AODV-DEMO ] ENERGY 91 90001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 9 90001
+[INFO: AODV-DEMO ] ENERGY 91 90001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 9 90001
+[INFO: AODV-DEMO ] ENERGY 91 90001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 9 90001
+[INFO: AODV-DEMO ] ENERGY 91 90001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 9 90001
+[INFO: AODV-DEMO ] ENERGY 91 90001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 9 90001
+[INFO: AODV-DEMO ] ENERGY 91 90001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 9 90001
+[INFO: AODV-DEMO ] ENERGY 91 90001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 9 90001
+[INFO: AODV-DEMO ] ENERGY 91 90001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 10 100001
+[INFO: AODV-DEMO ] ENERGY 90 100001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 10 100001
+[INFO: AODV-DEMO ] ENERGY 90 100001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 10 100001
+[INFO: AODV-DEMO ] ENERGY 90 100001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 10 100001
+[INFO: AODV-DEMO ] ENERGY 90 100001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 10 100001
+[INFO: AODV-DEMO ] ENERGY 90 100001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 10 100001
+[INFO: AODV-DEMO ] ENERGY 90 100001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 10 100001
+[INFO: AODV-DEMO ] ENERGY 90 100001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 10 100001
+[INFO: AODV-DEMO ] ENERGY 90 100001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 10 100001
+[INFO: AODV-DEMO ] ENERGY 90 100001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 10 100001
+[INFO: AODV-DEMO ] ENERGY 90 100001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 11 110001
+[INFO: AODV-DEMO ] ENERGY 89 110001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 11 110001
+[INFO: AODV-DEMO ] ENERGY 89 110001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 11 110001
+[INFO: AODV-DEMO ] ENERGY 89 110001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 11 110001
+[INFO: AODV-DEMO ] ENERGY 89 110001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 11 110001
+[INFO: AODV-DEMO ] ENERGY 89 110001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 11 110001
+[INFO: AODV-DEMO ] ENERGY 89 110001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 11 110001
+[INFO: AODV-DEMO ] ENERGY 89 110001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 11 110001
+[INFO: AODV-DEMO ] ENERGY 89 110001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 11 110001
+[INFO: AODV-DEMO ] ENERGY 89 110001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 11 110001
+[INFO: AODV-DEMO ] ENERGY 89 110001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 12 120001
+[INFO: AODV-DEMO ] ENERGY 88 120001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 12 120001
+[INFO: AODV-DEMO ] ENERGY 88 120001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 12 120001
+[INFO: AODV-DEMO ] ENERGY 88 120001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 12 120001
+[INFO: AODV-DEMO ] ENERGY 88 120001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 12 120001
+[INFO: AODV-DEMO ] ENERGY 88 120001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 12 120001
+[INFO: AODV-DEMO ] ENERGY 88 120001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 12 120001
+[INFO: AODV-DEMO ] ENERGY 88 120001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 12 120001
+[INFO: AODV-DEMO ] ENERGY 88 120001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 12 120001
+[INFO: AODV-DEMO ] ENERGY 88 120001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 12 120001
+[INFO: AODV-DEMO ] ENERGY 88 120001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 13 130001
+[INFO: AODV-DEMO ] ENERGY 87 130001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 13 130001
+[INFO: AODV-DEMO ] ENERGY 87 130001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 13 130001
+[INFO: AODV-DEMO ] ENERGY 87 130001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 13 130001
+[INFO: AODV-DEMO ] ENERGY 87 130001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 13 130001
+[INFO: AODV-DEMO ] ENERGY 87 130001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 13 130001
+[INFO: AODV-DEMO ] ENERGY 87 130001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 13 130001
+[INFO: AODV-DEMO ] ENERGY 87 130001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 13 130001
+[INFO: AODV-DEMO ] ENERGY 87 130001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 13 130001
+[INFO: AODV-DEMO ] ENERGY 87 130001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 13 130001
+[INFO: AODV-DEMO ] ENERGY 87 130001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 14 140001
+[INFO: AODV-DEMO ] ENERGY 86 140001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 14 140001
+[INFO: AODV-DEMO ] ENERGY 86 140001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 14 140001
+[INFO: AODV-DEMO ] ENERGY 86 140001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 14 140001
+[INFO: AODV-DEMO ] ENERGY 86 140001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 14 140001
+[INFO: AODV-DEMO ] ENERGY 86 140001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 14 140001
+[INFO: AODV-DEMO ] ENERGY 86 140001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 14 140001
+[INFO: AODV-DEMO ] ENERGY 86 140001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 14 140001
+[INFO: AODV-DEMO ] ENERGY 86 140001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 14 140001
+[INFO: AODV-DEMO ] ENERGY 86 140001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 14 140001
+[INFO: AODV-DEMO ] ENERGY 86 140001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 15 150001
+[INFO: AODV-DEMO ] ENERGY 85 150001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 15 150001
+[INFO: AODV-DEMO ] ENERGY 85 150001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 15 150001
+[INFO: AODV-DEMO ] ENERGY 85 150001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 15 150001
+[INFO: AODV-DEMO ] ENERGY 85 150001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 15 150001
+[INFO: AODV-DEMO ] ENERGY 85 150001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 15 150001
+[INFO: AODV-DEMO ] ENERGY 85 150001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 15 150001
+[INFO: AODV-DEMO ] ENERGY 85 150001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 15 150001
+[INFO: AODV-DEMO ] ENERGY 85 150001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 15 150001
+[INFO: AODV-DEMO ] ENERGY 85 150001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 15 150001
+[INFO: AODV-DEMO ] ENERGY 85 150001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 16 160001
+[INFO: AODV-DEMO ] ENERGY 84 160001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 16 160001
+[INFO: AODV-DEMO ] ENERGY 84 160001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 16 160001
+[INFO: AODV-DEMO ] ENERGY 84 160001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 16 160001
+[INFO: AODV-DEMO ] ENERGY 84 160001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 16 160001
+[INFO: AODV-DEMO ] ENERGY 84 160001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 16 160001
+[INFO: AODV-DEMO ] ENERGY 84 160001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 16 160001
+[INFO: AODV-DEMO ] ENERGY 84 160001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 16 160001
+[INFO: AODV-DEMO ] ENERGY 84 160001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 16 160001
+[INFO: AODV-DEMO ] ENERGY 84 160001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 16 160001
+[INFO: AODV-DEMO ] ENERGY 84 160001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 17 170001
+[INFO: AODV-DEMO ] ENERGY 83 170001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 17 170001
+[INFO: AODV-DEMO ] ENERGY 83 170001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 17 170001
+[INFO: AODV-DEMO ] ENERGY 83 170001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 17 170001
+[INFO: AODV-DEMO ] ENERGY 83 170001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 17 170001
+[INFO: AODV-DEMO ] ENERGY 83 170001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 17 170001
+[INFO: AODV-DEMO ] ENERGY 83 170001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 17 170001
+[INFO: AODV-DEMO ] ENERGY 83 170001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 17 170001
+[INFO: AODV-DEMO ] ENERGY 83 170001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 17 170001
+[INFO: AODV-DEMO ] ENERGY 83 170001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 17 170001
+[INFO: AODV-DEMO ] ENERGY 83 170001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 18 180001
+[INFO: AODV-DEMO ] ENERGY 82 180001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 18 180001
+[INFO: AODV-DEMO ] ENERGY 82 180001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 18 180001
+[INFO: AODV-DEMO ] ENERGY 82 180001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 18 180001
+[INFO: AODV-DEMO ] ENERGY 82 180001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 18 180001
+[INFO: AODV-DEMO ] ENERGY 82 180001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 18 180001
+[INFO: AODV-DEMO ] ENERGY 82 180001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 18 180001
+[INFO: AODV-DEMO ] ENERGY 82 180001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 18 180001
+[INFO: AODV-DEMO ] ENERGY 82 180001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 18 180001
+[INFO: AODV-DEMO ] ENERGY 82 180001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 18 180001
+[INFO: AODV-DEMO ] ENERGY 82 180001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 19 190001
+[INFO: AODV-DEMO ] ENERGY 81 190001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 19 190001
+[INFO: AODV-DEMO ] ENERGY 81 190001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 19 190001
+[INFO: AODV-DEMO ] ENERGY 81 190001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 19 190001
+[INFO: AODV-DEMO ] ENERGY 81 190001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 19 190001
+[INFO: AODV-DEMO ] ENERGY 81 190001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 19 190001
+[INFO: AODV-DEMO ] ENERGY 81 190001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 19 190001
+[INFO: AODV-DEMO ] ENERGY 81 190001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 19 190001
+[INFO: AODV-DEMO ] ENERGY 81 190001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 19 190001
+[INFO: AODV-DEMO ] ENERGY 81 190001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 19 190001
+[INFO: AODV-DEMO ] ENERGY 81 190001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 20 200001
+[INFO: AODV-DEMO ] ENERGY 80 200001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 20 200001
+[INFO: AODV-DEMO ] ENERGY 80 200001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 20 200001
+[INFO: AODV-DEMO ] ENERGY 80 200001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 20 200001
+[INFO: AODV-DEMO ] ENERGY 80 200001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 20 200001
+[INFO: AODV-DEMO ] ENERGY 80 200001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 20 200001
+[INFO: AODV-DEMO ] ENERGY 80 200001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 20 200001
+[INFO: AODV-DEMO ] ENERGY 80 200001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 20 200001
+[INFO: AODV-DEMO ] ENERGY 80 200001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 20 200001
+[INFO: AODV-DEMO ] ENERGY 80 200001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 20 200001
+[INFO: AODV-DEMO ] ENERGY 80 200001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 21 210001
+[INFO: AODV-DEMO ] ENERGY 79 210001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 21 210001
+[INFO: AODV-DEMO ] ENERGY 79 210001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 21 210001
+[INFO: AODV-DEMO ] ENERGY 79 210001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 21 210001
+[INFO: AODV-DEMO ] ENERGY 79 210001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 21 210001
+[INFO: AODV-DEMO ] ENERGY 79 210001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 21 210001
+[INFO: AODV-DEMO ] ENERGY 79 210001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 21 210001
+[INFO: AODV-DEMO ] ENERGY 79 210001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 21 210001
+[INFO: AODV-DEMO ] ENERGY 79 210001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 21 210001
+[INFO: AODV-DEMO ] ENERGY 79 210001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 21 210001
+[INFO: AODV-DEMO ] ENERGY 79 210001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 22 220001
+[INFO: AODV-DEMO ] ENERGY 78 220001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 22 220001
+[INFO: AODV-DEMO ] ENERGY 78 220001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 22 220001
+[INFO: AODV-DEMO ] ENERGY 78 220001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 22 220001
+[INFO: AODV-DEMO ] ENERGY 78 220001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 22 220001
+[INFO: AODV-DEMO ] ENERGY 78 220001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 22 220001
+[INFO: AODV-DEMO ] ENERGY 78 220001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 22 220001
+[INFO: AODV-DEMO ] ENERGY 78 220001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 22 220001
+[INFO: AODV-DEMO ] ENERGY 78 220001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 22 220001
+[INFO: AODV-DEMO ] ENERGY 78 220001
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 22 220001
+[INFO: AODV-DEMO ] ENERGY 78 220001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 23 230001
+[INFO: AODV-DEMO ] ENERGY 77 230001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 23 230001
+[INFO: AODV-DEMO ] ENERGY 77 230001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 23 230001
+[INFO: AODV-DEMO ] ENERGY 77 230001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 23 230001
+[INFO: AODV-DEMO ] ENERGY 77 230001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 23 230001
+[INFO: AODV-DEMO ] ENERGY 77 230001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 23 230001
+[INFO: AODV-DEMO ] ENERGY 77 230001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 23 230001
+[INFO: AODV-DEMO ] ENERGY 77 230001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 23 230001
+[INFO: AODV-DEMO ] ENERGY 77 230001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 23 230001
+[INFO: AODV-DEMO ] ENERGY 77 230001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 23 230001
+[INFO: AODV-DEMO ] ENERGY 77 230001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 24 240001
+[INFO: AODV-DEMO ] ENERGY 76 240001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 24 240001
+[INFO: AODV-DEMO ] ENERGY 76 240001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 24 240001
+[INFO: AODV-DEMO ] ENERGY 76 240001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 24 240001
+[INFO: AODV-DEMO ] ENERGY 76 240001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 24 240001
+[INFO: AODV-DEMO ] ENERGY 76 240001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 24 240001
+[INFO: AODV-DEMO ] ENERGY 76 240001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 24 240001
+[INFO: AODV-DEMO ] ENERGY 76 240001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 24 240001
+[INFO: AODV-DEMO ] ENERGY 76 240001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 24 240001
+[INFO: AODV-DEMO ] ENERGY 76 240001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 24 240001
+[INFO: AODV-DEMO ] ENERGY 76 240001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 25 250001
+[INFO: AODV-DEMO ] ENERGY 75 250001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 25 250001
+[INFO: AODV-DEMO ] ENERGY 75 250001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 25 250001
+[INFO: AODV-DEMO ] ENERGY 75 250001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 25 250001
+[INFO: AODV-DEMO ] ENERGY 75 250001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 25 250001
+[INFO: AODV-DEMO ] ENERGY 75 250001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 25 250001
+[INFO: AODV-DEMO ] ENERGY 75 250001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 25 250001
+[INFO: AODV-DEMO ] ENERGY 75 250001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 25 250001
+[INFO: AODV-DEMO ] ENERGY 75 250001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 25 250001
+[INFO: AODV-DEMO ] ENERGY 75 250001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 25 250001
+[INFO: AODV-DEMO ] ENERGY 75 250001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 26 260001
+[INFO: AODV-DEMO ] ENERGY 74 260001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 26 260001
+[INFO: AODV-DEMO ] ENERGY 74 260001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 26 260001
+[INFO: AODV-DEMO ] ENERGY 74 260001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 26 260001
+[INFO: AODV-DEMO ] ENERGY 74 260001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 26 260001
+[INFO: AODV-DEMO ] ENERGY 74 260001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 26 260001
+[INFO: AODV-DEMO ] ENERGY 74 260001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 26 260001
+[INFO: AODV-DEMO ] ENERGY 74 260001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 26 260001
+[INFO: AODV-DEMO ] ENERGY 74 260001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 26 260001
+[INFO: AODV-DEMO ] ENERGY 74 260001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 26 260001
+[INFO: AODV-DEMO ] ENERGY 74 260001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 27 270001
+[INFO: AODV-DEMO ] ENERGY 73 270001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 27 270001
+[INFO: AODV-DEMO ] ENERGY 73 270001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 27 270001
+[INFO: AODV-DEMO ] ENERGY 73 270001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 27 270001
+[INFO: AODV-DEMO ] ENERGY 73 270001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 27 270001
+[INFO: AODV-DEMO ] ENERGY 73 270001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 27 270001
+[INFO: AODV-DEMO ] ENERGY 73 270001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 27 270001
+[INFO: AODV-DEMO ] ENERGY 73 270001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 27 270001
+[INFO: AODV-DEMO ] ENERGY 73 270001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 27 270001
+[INFO: AODV-DEMO ] ENERGY 73 270001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 27 270001
+[INFO: AODV-DEMO ] ENERGY 73 270001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 28 280001
+[INFO: AODV-DEMO ] ENERGY 72 280001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 28 280001
+[INFO: AODV-DEMO ] ENERGY 72 280001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 28 280001
+[INFO: AODV-DEMO ] ENERGY 72 280001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 28 280001
+[INFO: AODV-DEMO ] ENERGY 72 280001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 28 280001
+[INFO: AODV-DEMO ] ENERGY 72 280001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 28 280001
+[INFO: AODV-DEMO ] ENERGY 72 280001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 28 280001
+[INFO: AODV-DEMO ] ENERGY 72 280001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 28 280001
+[INFO: AODV-DEMO ] ENERGY 72 280001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 28 280001
+[INFO: AODV-DEMO ] ENERGY 72 280001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 28 280001
+[INFO: AODV-DEMO ] ENERGY 72 280001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 29 290001
+[INFO: AODV-DEMO ] ENERGY 71 290001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 29 290001
+[INFO: AODV-DEMO ] ENERGY 71 290001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 29 290001
+[INFO: AODV-DEMO ] ENERGY 71 290001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 29 290001
+[INFO: AODV-DEMO ] ENERGY 71 290001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 29 290001
+[INFO: AODV-DEMO ] ENERGY 71 290001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 29 290001
+[INFO: AODV-DEMO ] ENERGY 71 290001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 29 290001
+[INFO: AODV-DEMO ] ENERGY 71 290001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 29 290001
+[INFO: AODV-DEMO ] ENERGY 71 290001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 29 290001
+[INFO: AODV-DEMO ] ENERGY 71 290001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 29 290001
+[INFO: AODV-DEMO ] ENERGY 71 290001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 30 300001
+[INFO: AODV-DEMO ] ENERGY 70 300001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 30 300001
+[INFO: AODV-DEMO ] ENERGY 70 300001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 30 300001
+[INFO: AODV-DEMO ] ENERGY 70 300001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 30 300001
+[INFO: AODV-DEMO ] ENERGY 70 300001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 30 300001
+[INFO: AODV-DEMO ] ENERGY 70 300001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 30 300001
+[INFO: AODV-DEMO ] ENERGY 70 300001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 30 300001
+[INFO: AODV-DEMO ] ENERGY 70 300001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 30 300001
+[INFO: AODV-DEMO ] ENERGY 70 300001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 30 300001
+[INFO: AODV-DEMO ] ENERGY 70 300001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 30 300001
+[INFO: AODV-DEMO ] ENERGY 70 300001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 31 310001
+[INFO: AODV-DEMO ] ENERGY 69 310001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 31 310001
+[INFO: AODV-DEMO ] ENERGY 69 310001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 31 310001
+[INFO: AODV-DEMO ] ENERGY 69 310001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 31 310001
+[INFO: AODV-DEMO ] ENERGY 69 310001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 31 310001
+[INFO: AODV-DEMO ] ENERGY 69 310001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 31 310001
+[INFO: AODV-DEMO ] ENERGY 69 310001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 31 310001
+[INFO: AODV-DEMO ] ENERGY 69 310001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 31 310001
+[INFO: AODV-DEMO ] ENERGY 69 310001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 31 310001
+[INFO: AODV-DEMO ] ENERGY 69 310001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 31 310001
+[INFO: AODV-DEMO ] ENERGY 69 310001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 32 320001
+[INFO: AODV-DEMO ] ENERGY 68 320001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 32 320001
+[INFO: AODV-DEMO ] ENERGY 68 320001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 32 320001
+[INFO: AODV-DEMO ] ENERGY 68 320001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 32 320001
+[INFO: AODV-DEMO ] ENERGY 68 320001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 32 320001
+[INFO: AODV-DEMO ] ENERGY 68 320001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 32 320001
+[INFO: AODV-DEMO ] ENERGY 68 320001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 32 320001
+[INFO: AODV-DEMO ] ENERGY 68 320001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 32 320001
+[INFO: AODV-DEMO ] ENERGY 68 320001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 32 320001
+[INFO: AODV-DEMO ] ENERGY 68 320001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 32 320001
+[INFO: AODV-DEMO ] ENERGY 68 320001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 33 330001
+[INFO: AODV-DEMO ] ENERGY 67 330001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 33 330001
+[INFO: AODV-DEMO ] ENERGY 67 330001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 33 330001
+[INFO: AODV-DEMO ] ENERGY 67 330001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 33 330001
+[INFO: AODV-DEMO ] ENERGY 67 330001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 33 330001
+[INFO: AODV-DEMO ] ENERGY 67 330001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 33 330001
+[INFO: AODV-DEMO ] ENERGY 67 330001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 33 330001
+[INFO: AODV-DEMO ] ENERGY 67 330001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 33 330001
+[INFO: AODV-DEMO ] ENERGY 67 330001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 33 330001
+[INFO: AODV-DEMO ] ENERGY 67 330001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 33 330001
+[INFO: AODV-DEMO ] ENERGY 67 330001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 34 340001
+[INFO: AODV-DEMO ] ENERGY 66 340001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 34 340001
+[INFO: AODV-DEMO ] ENERGY 66 340001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 34 340001
+[INFO: AODV-DEMO ] ENERGY 66 340001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 34 340001
+[INFO: AODV-DEMO ] ENERGY 66 340001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 34 340001
+[INFO: AODV-DEMO ] ENERGY 66 340001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 34 340001
+[INFO: AODV-DEMO ] ENERGY 66 340001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 34 340001
+[INFO: AODV-DEMO ] ENERGY 66 340001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 34 340001
+[INFO: AODV-DEMO ] ENERGY 66 340001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 34 340001
+[INFO: AODV-DEMO ] ENERGY 66 340001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 34 340001
+[INFO: AODV-DEMO ] ENERGY 66 340001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 35 350001
+[INFO: AODV-DEMO ] ENERGY 65 350001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 35 350001
+[INFO: AODV-DEMO ] ENERGY 65 350001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 35 350001
+[INFO: AODV-DEMO ] ENERGY 65 350001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 35 350001
+[INFO: AODV-DEMO ] ENERGY 65 350001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 35 350001
+[INFO: AODV-DEMO ] ENERGY 65 350001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 35 350001
+[INFO: AODV-DEMO ] ENERGY 65 350001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 35 350001
+[INFO: AODV-DEMO ] ENERGY 65 350001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 35 350001
+[INFO: AODV-DEMO ] ENERGY 65 350001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 35 350001
+[INFO: AODV-DEMO ] ENERGY 65 350001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 35 350001
+[INFO: AODV-DEMO ] ENERGY 65 350001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 36 360001
+[INFO: AODV-DEMO ] ENERGY 64 360001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 36 360001
+[INFO: AODV-DEMO ] ENERGY 64 360001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 36 360001
+[INFO: AODV-DEMO ] ENERGY 64 360001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 36 360001
+[INFO: AODV-DEMO ] ENERGY 64 360001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 36 360001
+[INFO: AODV-DEMO ] ENERGY 64 360001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 36 360001
+[INFO: AODV-DEMO ] ENERGY 64 360001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 36 360001
+[INFO: AODV-DEMO ] ENERGY 64 360001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 36 360001
+[INFO: AODV-DEMO ] ENERGY 64 360001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 36 360001
+[INFO: AODV-DEMO ] ENERGY 64 360001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 36 360001
+[INFO: AODV-DEMO ] ENERGY 64 360001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 37 370001
+[INFO: AODV-DEMO ] ENERGY 63 370001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 37 370001
+[INFO: AODV-DEMO ] ENERGY 63 370001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 37 370001
+[INFO: AODV-DEMO ] ENERGY 63 370001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 37 370001
+[INFO: AODV-DEMO ] ENERGY 63 370001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 37 370001
+[INFO: AODV-DEMO ] ENERGY 63 370001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 37 370001
+[INFO: AODV-DEMO ] ENERGY 63 370001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 37 370001
+[INFO: AODV-DEMO ] ENERGY 63 370001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 37 370001
+[INFO: AODV-DEMO ] ENERGY 63 370001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 37 370001
+[INFO: AODV-DEMO ] ENERGY 63 370001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 37 370001
+[INFO: AODV-DEMO ] ENERGY 63 370001
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 38 380001
+[INFO: AODV-DEMO ] ENERGY 62 380001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 38 380001
+[INFO: AODV-DEMO ] ENERGY 62 380001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 38 380001
+[INFO: AODV-DEMO ] ENERGY 62 380001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 38 380001
+[INFO: AODV-DEMO ] ENERGY 62 380001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 38 380001
+[INFO: AODV-DEMO ] ENERGY 62 380001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 38 380001
+[INFO: AODV-DEMO ] ENERGY 62 380001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 38 380001
+[INFO: AODV-DEMO ] ENERGY 62 380001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 38 380001
+[INFO: AODV-DEMO ] ENERGY 62 380001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 38 380001
+[INFO: AODV-DEMO ] ENERGY 62 380001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 38 380001
+[INFO: AODV-DEMO ] ENERGY 62 380001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 39 390001
+[INFO: AODV-DEMO ] ENERGY 61 390001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 39 390001
+[INFO: AODV-DEMO ] ENERGY 61 390001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 39 390001
+[INFO: AODV-DEMO ] ENERGY 61 390001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 39 390001
+[INFO: AODV-DEMO ] ENERGY 61 390001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 39 390001
+[INFO: AODV-DEMO ] ENERGY 61 390001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 39 390001
+[INFO: AODV-DEMO ] ENERGY 61 390001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 39 390001
+[INFO: AODV-DEMO ] ENERGY 61 390001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 39 390001
+[INFO: AODV-DEMO ] ENERGY 61 390001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 39 390001
+[INFO: AODV-DEMO ] ENERGY 61 390001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 39 390001
+[INFO: AODV-DEMO ] ENERGY 61 390001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 40 400001
+[INFO: AODV-DEMO ] ENERGY 60 400001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 40 400001
+[INFO: AODV-DEMO ] ENERGY 60 400001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 40 400001
+[INFO: AODV-DEMO ] ENERGY 60 400001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 40 400001
+[INFO: AODV-DEMO ] ENERGY 60 400001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 40 400001
+[INFO: AODV-DEMO ] ENERGY 60 400001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 40 400001
+[INFO: AODV-DEMO ] ENERGY 60 400001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 40 400001
+[INFO: AODV-DEMO ] ENERGY 60 400001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 40 400001
+[INFO: AODV-DEMO ] ENERGY 60 400001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 40 400001
+[INFO: AODV-DEMO ] ENERGY 60 400001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 40 400001
+[INFO: AODV-DEMO ] ENERGY 60 400001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 41 410001
+[INFO: AODV-DEMO ] ENERGY 59 410001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 41 410001
+[INFO: AODV-DEMO ] ENERGY 59 410001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 41 410001
+[INFO: AODV-DEMO ] ENERGY 59 410001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 41 410001
+[INFO: AODV-DEMO ] ENERGY 59 410001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 41 410001
+[INFO: AODV-DEMO ] ENERGY 59 410001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 41 410001
+[INFO: AODV-DEMO ] ENERGY 59 410001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 41 410001
+[INFO: AODV-DEMO ] ENERGY 59 410001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 41 410001
+[INFO: AODV-DEMO ] ENERGY 59 410001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 41 410001
+[INFO: AODV-DEMO ] ENERGY 59 410001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 41 410001
+[INFO: AODV-DEMO ] ENERGY 59 410001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 42 420001
+[INFO: AODV-DEMO ] ENERGY 58 420001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 42 420001
+[INFO: AODV-DEMO ] ENERGY 58 420001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 42 420001
+[INFO: AODV-DEMO ] ENERGY 58 420001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 42 420001
+[INFO: AODV-DEMO ] ENERGY 58 420001
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 42 420001
+[INFO: AODV-DEMO ] ENERGY 58 420001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 42 420001
+[INFO: AODV-DEMO ] ENERGY 58 420001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 42 420001
+[INFO: AODV-DEMO ] ENERGY 58 420001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 42 420001
+[INFO: AODV-DEMO ] ENERGY 58 420001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 42 420001
+[INFO: AODV-DEMO ] ENERGY 58 420001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 42 420001
+[INFO: AODV-DEMO ] ENERGY 58 420001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 43 430001
+[INFO: AODV-DEMO ] ENERGY 57 430001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 43 430001
+[INFO: AODV-DEMO ] ENERGY 57 430001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 43 430001
+[INFO: AODV-DEMO ] ENERGY 57 430001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 43 430001
+[INFO: AODV-DEMO ] ENERGY 57 430001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 43 430001
+[INFO: AODV-DEMO ] ENERGY 57 430001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 43 430001
+[INFO: AODV-DEMO ] ENERGY 57 430001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 43 430001
+[INFO: AODV-DEMO ] ENERGY 57 430001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 43 430001
+[INFO: AODV-DEMO ] ENERGY 57 430001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 43 430001
+[INFO: AODV-DEMO ] ENERGY 57 430001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 43 430001
+[INFO: AODV-DEMO ] ENERGY 57 430001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 44 440001
+[INFO: AODV-DEMO ] ENERGY 56 440001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 44 440001
+[INFO: AODV-DEMO ] ENERGY 56 440001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 44 440001
+[INFO: AODV-DEMO ] ENERGY 56 440001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 44 440001
+[INFO: AODV-DEMO ] ENERGY 56 440001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 44 440001
+[INFO: AODV-DEMO ] ENERGY 56 440001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 44 440001
+[INFO: AODV-DEMO ] ENERGY 56 440001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 44 440001
+[INFO: AODV-DEMO ] ENERGY 56 440001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 44 440001
+[INFO: AODV-DEMO ] ENERGY 56 440001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 44 440001
+[INFO: AODV-DEMO ] ENERGY 56 440001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 44 440001
+[INFO: AODV-DEMO ] ENERGY 56 440001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 45 450001
+[INFO: AODV-DEMO ] ENERGY 55 450001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 45 450001
+[INFO: AODV-DEMO ] ENERGY 55 450001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 45 450001
+[INFO: AODV-DEMO ] ENERGY 55 450001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 45 450001
+[INFO: AODV-DEMO ] ENERGY 55 450001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 45 450001
+[INFO: AODV-DEMO ] ENERGY 55 450001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 45 450001
+[INFO: AODV-DEMO ] ENERGY 55 450001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 45 450001
+[INFO: AODV-DEMO ] ENERGY 55 450001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 45 450001
+[INFO: AODV-DEMO ] ENERGY 55 450001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 45 450001
+[INFO: AODV-DEMO ] ENERGY 55 450001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 45 450001
+[INFO: AODV-DEMO ] ENERGY 55 450001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 46 460001
+[INFO: AODV-DEMO ] ENERGY 54 460001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 46 460001
+[INFO: AODV-DEMO ] ENERGY 54 460001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 46 460001
+[INFO: AODV-DEMO ] ENERGY 54 460001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 46 460001
+[INFO: AODV-DEMO ] ENERGY 54 460001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 46 460001
+[INFO: AODV-DEMO ] ENERGY 54 460001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 46 460001
+[INFO: AODV-DEMO ] ENERGY 54 460001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 46 460001
+[INFO: AODV-DEMO ] ENERGY 54 460001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 46 460001
+[INFO: AODV-DEMO ] ENERGY 54 460001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 46 460001
+[INFO: AODV-DEMO ] ENERGY 54 460001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 46 460001
+[INFO: AODV-DEMO ] ENERGY 54 460001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 47 470001
+[INFO: AODV-DEMO ] ENERGY 53 470001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 47 470001
+[INFO: AODV-DEMO ] ENERGY 53 470001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 47 470001
+[INFO: AODV-DEMO ] ENERGY 53 470001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 47 470001
+[INFO: AODV-DEMO ] ENERGY 53 470001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 47 470001
+[INFO: AODV-DEMO ] ENERGY 53 470001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 47 470001
+[INFO: AODV-DEMO ] ENERGY 53 470001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 47 470001
+[INFO: AODV-DEMO ] ENERGY 53 470001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 47 470001
+[INFO: AODV-DEMO ] ENERGY 53 470001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 47 470001
+[INFO: AODV-DEMO ] ENERGY 53 470001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 47 470001
+[INFO: AODV-DEMO ] ENERGY 53 470001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 48 480001
+[INFO: AODV-DEMO ] ENERGY 52 480001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 48 480001
+[INFO: AODV-DEMO ] ENERGY 52 480001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 48 480001
+[INFO: AODV-DEMO ] ENERGY 52 480001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 48 480001
+[INFO: AODV-DEMO ] ENERGY 52 480001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 48 480001
+[INFO: AODV-DEMO ] ENERGY 52 480001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 48 480001
+[INFO: AODV-DEMO ] ENERGY 52 480001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 48 480001
+[INFO: AODV-DEMO ] ENERGY 52 480001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 48 480001
+[INFO: AODV-DEMO ] ENERGY 52 480001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 48 480001
+[INFO: AODV-DEMO ] ENERGY 52 480001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 48 480001
+[INFO: AODV-DEMO ] ENERGY 52 480001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 49 490001
+[INFO: AODV-DEMO ] ENERGY 51 490001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 49 490001
+[INFO: AODV-DEMO ] ENERGY 51 490001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 49 490001
+[INFO: AODV-DEMO ] ENERGY 51 490001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 49 490001
+[INFO: AODV-DEMO ] ENERGY 51 490001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 49 490001
+[INFO: AODV-DEMO ] ENERGY 51 490001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 49 490001
+[INFO: AODV-DEMO ] ENERGY 51 490001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 49 490001
+[INFO: AODV-DEMO ] ENERGY 51 490001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 49 490001
+[INFO: AODV-DEMO ] ENERGY 51 490001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 49 490001
+[INFO: AODV-DEMO ] ENERGY 51 490001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 49 490001
+[INFO: AODV-DEMO ] ENERGY 51 490001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 50 500001
+[INFO: AODV-DEMO ] ENERGY 50 500001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 50 500001
+[INFO: AODV-DEMO ] ENERGY 50 500001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 50 500001
+[INFO: AODV-DEMO ] ENERGY 50 500001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 50 500001
+[INFO: AODV-DEMO ] ENERGY 50 500001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 50 500001
+[INFO: AODV-DEMO ] ENERGY 50 500001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 50 500001
+[INFO: AODV-DEMO ] ENERGY 50 500001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 50 500001
+[INFO: AODV-DEMO ] ENERGY 50 500001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 50 500001
+[INFO: AODV-DEMO ] ENERGY 50 500001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 50 500001
+[INFO: AODV-DEMO ] ENERGY 50 500001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 50 500001
+[INFO: AODV-DEMO ] ENERGY 50 500001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 51 510001
+[INFO: AODV-DEMO ] ENERGY 49 510001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 51 510001
+[INFO: AODV-DEMO ] ENERGY 49 510001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 51 510001
+[INFO: AODV-DEMO ] ENERGY 49 510001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 51 510001
+[INFO: AODV-DEMO ] ENERGY 49 510001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 51 510001
+[INFO: AODV-DEMO ] ENERGY 49 510001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 51 510001
+[INFO: AODV-DEMO ] ENERGY 49 510001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 51 510001
+[INFO: AODV-DEMO ] ENERGY 49 510001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 51 510001
+[INFO: AODV-DEMO ] ENERGY 49 510001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 51 510001
+[INFO: AODV-DEMO ] ENERGY 49 510001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 51 510001
+[INFO: AODV-DEMO ] ENERGY 49 510001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 52 520001
+[INFO: AODV-DEMO ] ENERGY 48 520001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 52 520001
+[INFO: AODV-DEMO ] ENERGY 48 520001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 52 520001
+[INFO: AODV-DEMO ] ENERGY 48 520001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 52 520001
+[INFO: AODV-DEMO ] ENERGY 48 520001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 52 520001
+[INFO: AODV-DEMO ] ENERGY 48 520001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 52 520001
+[INFO: AODV-DEMO ] ENERGY 48 520001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 52 520001
+[INFO: AODV-DEMO ] ENERGY 48 520001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 52 520001
+[INFO: AODV-DEMO ] ENERGY 48 520001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 52 520001
+[INFO: AODV-DEMO ] ENERGY 48 520001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 52 520001
+[INFO: AODV-DEMO ] ENERGY 48 520001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 53 530001
+[INFO: AODV-DEMO ] ENERGY 47 530001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 53 530001
+[INFO: AODV-DEMO ] ENERGY 47 530001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 53 530001
+[INFO: AODV-DEMO ] ENERGY 47 530001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 53 530001
+[INFO: AODV-DEMO ] ENERGY 47 530001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 53 530001
+[INFO: AODV-DEMO ] ENERGY 47 530001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 53 530001
+[INFO: AODV-DEMO ] ENERGY 47 530001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 53 530001
+[INFO: AODV-DEMO ] ENERGY 47 530001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 53 530001
+[INFO: AODV-DEMO ] ENERGY 47 530001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 53 530001
+[INFO: AODV-DEMO ] ENERGY 47 530001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 53 530001
+[INFO: AODV-DEMO ] ENERGY 47 530001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 54 540001
+[INFO: AODV-DEMO ] ENERGY 46 540001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 54 540001
+[INFO: AODV-DEMO ] ENERGY 46 540001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 54 540001
+[INFO: AODV-DEMO ] ENERGY 46 540001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 54 540001
+[INFO: AODV-DEMO ] ENERGY 46 540001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 54 540001
+[INFO: AODV-DEMO ] ENERGY 46 540001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 54 540001
+[INFO: AODV-DEMO ] ENERGY 46 540001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 54 540001
+[INFO: AODV-DEMO ] ENERGY 46 540001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 54 540001
+[INFO: AODV-DEMO ] ENERGY 46 540001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 54 540001
+[INFO: AODV-DEMO ] ENERGY 46 540001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 54 540001
+[INFO: AODV-DEMO ] ENERGY 46 540001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 55 550001
+[INFO: AODV-DEMO ] ENERGY 45 550001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 55 550001
+[INFO: AODV-DEMO ] ENERGY 45 550001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 55 550001
+[INFO: AODV-DEMO ] ENERGY 45 550001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 55 550001
+[INFO: AODV-DEMO ] ENERGY 45 550001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 55 550001
+[INFO: AODV-DEMO ] ENERGY 45 550001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 55 550001
+[INFO: AODV-DEMO ] ENERGY 45 550001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 55 550001
+[INFO: AODV-DEMO ] ENERGY 45 550001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 55 550001
+[INFO: AODV-DEMO ] ENERGY 45 550001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 55 550001
+[INFO: AODV-DEMO ] ENERGY 45 550001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 55 550001
+[INFO: AODV-DEMO ] ENERGY 45 550001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 56 560001
+[INFO: AODV-DEMO ] ENERGY 44 560001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 56 560001
+[INFO: AODV-DEMO ] ENERGY 44 560001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 56 560001
+[INFO: AODV-DEMO ] ENERGY 44 560001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 56 560001
+[INFO: AODV-DEMO ] ENERGY 44 560001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 56 560001
+[INFO: AODV-DEMO ] ENERGY 44 560001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 56 560001
+[INFO: AODV-DEMO ] ENERGY 44 560001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 56 560001
+[INFO: AODV-DEMO ] ENERGY 44 560001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 56 560001
+[INFO: AODV-DEMO ] ENERGY 44 560001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 56 560001
+[INFO: AODV-DEMO ] ENERGY 44 560001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 56 560001
+[INFO: AODV-DEMO ] ENERGY 44 560001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 57 570001
+[INFO: AODV-DEMO ] ENERGY 43 570001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 57 570001
+[INFO: AODV-DEMO ] ENERGY 43 570001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 57 570001
+[INFO: AODV-DEMO ] ENERGY 43 570001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 57 570001
+[INFO: AODV-DEMO ] ENERGY 43 570001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 57 570001
+[INFO: AODV-DEMO ] ENERGY 43 570001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 57 570001
+[INFO: AODV-DEMO ] ENERGY 43 570001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 57 570001
+[INFO: AODV-DEMO ] ENERGY 43 570001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 57 570001
+[INFO: AODV-DEMO ] ENERGY 43 570001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 57 570001
+[INFO: AODV-DEMO ] ENERGY 43 570001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 57 570001
+[INFO: AODV-DEMO ] ENERGY 43 570001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 58 580001
+[INFO: AODV-DEMO ] ENERGY 42 580001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 58 580001
+[INFO: AODV-DEMO ] ENERGY 42 580001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 58 580001
+[INFO: AODV-DEMO ] ENERGY 42 580001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 58 580001
+[INFO: AODV-DEMO ] ENERGY 42 580001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 58 580001
+[INFO: AODV-DEMO ] ENERGY 42 580001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 58 580001
+[INFO: AODV-DEMO ] ENERGY 42 580001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 58 580001
+[INFO: AODV-DEMO ] ENERGY 42 580001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 58 580001
+[INFO: AODV-DEMO ] ENERGY 42 580001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 58 580001
+[INFO: AODV-DEMO ] ENERGY 42 580001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 58 580001
+[INFO: AODV-DEMO ] ENERGY 42 580001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 59 590001
+[INFO: AODV-DEMO ] ENERGY 41 590001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 59 590001
+[INFO: AODV-DEMO ] ENERGY 41 590001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 59 590001
+[INFO: AODV-DEMO ] ENERGY 41 590001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 59 590001
+[INFO: AODV-DEMO ] ENERGY 41 590001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 59 590001
+[INFO: AODV-DEMO ] ENERGY 41 590001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 59 590001
+[INFO: AODV-DEMO ] ENERGY 41 590001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 59 590001
+[INFO: AODV-DEMO ] ENERGY 41 590001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 59 590001
+[INFO: AODV-DEMO ] ENERGY 41 590001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 59 590001
+[INFO: AODV-DEMO ] ENERGY 41 590001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 59 590001
+[INFO: AODV-DEMO ] ENERGY 41 590001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 60 600001
+[INFO: AODV-DEMO ] ENERGY 40 600001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 60 600001
+[INFO: AODV-DEMO ] ENERGY 40 600001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 60 600001
+[INFO: AODV-DEMO ] ENERGY 40 600001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 60 600001
+[INFO: AODV-DEMO ] ENERGY 40 600001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 60 600001
+[INFO: AODV-DEMO ] ENERGY 40 600001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 60 600001
+[INFO: AODV-DEMO ] ENERGY 40 600001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 60 600001
+[INFO: AODV-DEMO ] ENERGY 40 600001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 60 600001
+[INFO: AODV-DEMO ] ENERGY 40 600001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 60 600001
+[INFO: AODV-DEMO ] ENERGY 40 600001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 60 600001
+[INFO: AODV-DEMO ] ENERGY 40 600001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 61 610001
+[INFO: AODV-DEMO ] ENERGY 39 610001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 61 610001
+[INFO: AODV-DEMO ] ENERGY 39 610001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 61 610001
+[INFO: AODV-DEMO ] ENERGY 39 610001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 61 610001
+[INFO: AODV-DEMO ] ENERGY 39 610001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 61 610001
+[INFO: AODV-DEMO ] ENERGY 39 610001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 61 610001
+[INFO: AODV-DEMO ] ENERGY 39 610001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 61 610001
+[INFO: AODV-DEMO ] ENERGY 39 610001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 61 610001
+[INFO: AODV-DEMO ] ENERGY 39 610001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 61 610001
+[INFO: AODV-DEMO ] ENERGY 39 610001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 61 610001
+[INFO: AODV-DEMO ] ENERGY 39 610001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 62 620001
+[INFO: AODV-DEMO ] ENERGY 38 620001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 62 620001
+[INFO: AODV-DEMO ] ENERGY 38 620001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 62 620001
+[INFO: AODV-DEMO ] ENERGY 38 620001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 62 620001
+[INFO: AODV-DEMO ] ENERGY 38 620001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 62 620001
+[INFO: AODV-DEMO ] ENERGY 38 620001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 62 620001
+[INFO: AODV-DEMO ] ENERGY 38 620001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 62 620001
+[INFO: AODV-DEMO ] ENERGY 38 620001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 62 620001
+[INFO: AODV-DEMO ] ENERGY 38 620001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 62 620001
+[INFO: AODV-DEMO ] ENERGY 38 620001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 62 620001
+[INFO: AODV-DEMO ] ENERGY 38 620001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 63 630001
+[INFO: AODV-DEMO ] ENERGY 37 630001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 63 630001
+[INFO: AODV-DEMO ] ENERGY 37 630001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 63 630001
+[INFO: AODV-DEMO ] ENERGY 37 630001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 63 630001
+[INFO: AODV-DEMO ] ENERGY 37 630001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 63 630001
+[INFO: AODV-DEMO ] ENERGY 37 630001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 63 630001
+[INFO: AODV-DEMO ] ENERGY 37 630001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 63 630001
+[INFO: AODV-DEMO ] ENERGY 37 630001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 63 630001
+[INFO: AODV-DEMO ] ENERGY 37 630001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 63 630001
+[INFO: AODV-DEMO ] ENERGY 37 630001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 63 630001
+[INFO: AODV-DEMO ] ENERGY 37 630001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 64 640001
+[INFO: AODV-DEMO ] ENERGY 36 640001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 64 640001
+[INFO: AODV-DEMO ] ENERGY 36 640001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 64 640001
+[INFO: AODV-DEMO ] ENERGY 36 640001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 64 640001
+[INFO: AODV-DEMO ] ENERGY 36 640001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 64 640001
+[INFO: AODV-DEMO ] ENERGY 36 640001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 64 640001
+[INFO: AODV-DEMO ] ENERGY 36 640001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 64 640001
+[INFO: AODV-DEMO ] ENERGY 36 640001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 64 640001
+[INFO: AODV-DEMO ] ENERGY 36 640001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 64 640001
+[INFO: AODV-DEMO ] ENERGY 36 640001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 64 640001
+[INFO: AODV-DEMO ] ENERGY 36 640001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 65 650001
+[INFO: AODV-DEMO ] ENERGY 35 650001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 65 650001
+[INFO: AODV-DEMO ] ENERGY 35 650001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 65 650001
+[INFO: AODV-DEMO ] ENERGY 35 650001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 65 650001
+[INFO: AODV-DEMO ] ENERGY 35 650001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 65 650001
+[INFO: AODV-DEMO ] ENERGY 35 650001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 65 650001
+[INFO: AODV-DEMO ] ENERGY 35 650001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 65 650001
+[INFO: AODV-DEMO ] ENERGY 35 650001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 65 650001
+[INFO: AODV-DEMO ] ENERGY 35 650001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 65 650001
+[INFO: AODV-DEMO ] ENERGY 35 650001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 65 650001
+[INFO: AODV-DEMO ] ENERGY 35 650001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 66 660001
+[INFO: AODV-DEMO ] ENERGY 34 660001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 66 660001
+[INFO: AODV-DEMO ] ENERGY 34 660001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 66 660001
+[INFO: AODV-DEMO ] ENERGY 34 660001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 66 660001
+[INFO: AODV-DEMO ] ENERGY 34 660001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 66 660001
+[INFO: AODV-DEMO ] ENERGY 34 660001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 66 660001
+[INFO: AODV-DEMO ] ENERGY 34 660001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 66 660001
+[INFO: AODV-DEMO ] ENERGY 34 660001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 66 660001
+[INFO: AODV-DEMO ] ENERGY 34 660001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 66 660001
+[INFO: AODV-DEMO ] ENERGY 34 660001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 66 660001
+[INFO: AODV-DEMO ] ENERGY 34 660001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 67 670001
+[INFO: AODV-DEMO ] ENERGY 33 670001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 67 670001
+[INFO: AODV-DEMO ] ENERGY 33 670001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 67 670001
+[INFO: AODV-DEMO ] ENERGY 33 670001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 67 670001
+[INFO: AODV-DEMO ] ENERGY 33 670001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 67 670001
+[INFO: AODV-DEMO ] ENERGY 33 670001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 67 670001
+[INFO: AODV-DEMO ] ENERGY 33 670001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 67 670001
+[INFO: AODV-DEMO ] ENERGY 33 670001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 67 670001
+[INFO: AODV-DEMO ] ENERGY 33 670001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 67 670001
+[INFO: AODV-DEMO ] ENERGY 33 670001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 67 670001
+[INFO: AODV-DEMO ] ENERGY 33 670001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 68 680001
+[INFO: AODV-DEMO ] ENERGY 32 680001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 68 680001
+[INFO: AODV-DEMO ] ENERGY 32 680001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 68 680001
+[INFO: AODV-DEMO ] ENERGY 32 680001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 68 680001
+[INFO: AODV-DEMO ] ENERGY 32 680001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 68 680001
+[INFO: AODV-DEMO ] ENERGY 32 680001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 68 680001
+[INFO: AODV-DEMO ] ENERGY 32 680001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 68 680001
+[INFO: AODV-DEMO ] ENERGY 32 680001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 68 680001
+[INFO: AODV-DEMO ] ENERGY 32 680001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 68 680001
+[INFO: AODV-DEMO ] ENERGY 32 680001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 68 680001
+[INFO: AODV-DEMO ] ENERGY 32 680001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 69 690001
+[INFO: AODV-DEMO ] ENERGY 31 690001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 69 690001
+[INFO: AODV-DEMO ] ENERGY 31 690001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 69 690001
+[INFO: AODV-DEMO ] ENERGY 31 690001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 69 690001
+[INFO: AODV-DEMO ] ENERGY 31 690001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 69 690001
+[INFO: AODV-DEMO ] ENERGY 31 690001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 69 690001
+[INFO: AODV-DEMO ] ENERGY 31 690001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 69 690001
+[INFO: AODV-DEMO ] ENERGY 31 690001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 69 690001
+[INFO: AODV-DEMO ] ENERGY 31 690001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 69 690001
+[INFO: AODV-DEMO ] ENERGY 31 690001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 69 690001
+[INFO: AODV-DEMO ] ENERGY 31 690001
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 70 700001
+[INFO: AODV-DEMO ] ENERGY 30 700001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 70 700001
+[INFO: AODV-DEMO ] ENERGY 30 700001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 70 700001
+[INFO: AODV-DEMO ] ENERGY 30 700001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 70 700001
+[INFO: AODV-DEMO ] ENERGY 30 700001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 70 700001
+[INFO: AODV-DEMO ] ENERGY 30 700001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 70 700001
+[INFO: AODV-DEMO ] ENERGY 30 700001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 70 700001
+[INFO: AODV-DEMO ] ENERGY 30 700001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 70 700001
+[INFO: AODV-DEMO ] ENERGY 30 700001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 70 700001
+[INFO: AODV-DEMO ] ENERGY 30 700001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 70 700001
+[INFO: AODV-DEMO ] ENERGY 30 700001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 71 710001
+[INFO: AODV-DEMO ] ENERGY 29 710001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 71 710001
+[INFO: AODV-DEMO ] ENERGY 29 710001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 71 710001
+[INFO: AODV-DEMO ] ENERGY 29 710001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 71 710001
+[INFO: AODV-DEMO ] ENERGY 29 710001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 71 710001
+[INFO: AODV-DEMO ] ENERGY 29 710001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 71 710001
+[INFO: AODV-DEMO ] ENERGY 29 710001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 71 710001
+[INFO: AODV-DEMO ] ENERGY 29 710001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 71 710001
+[INFO: AODV-DEMO ] ENERGY 29 710001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 71 710001
+[INFO: AODV-DEMO ] ENERGY 29 710001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 71 710001
+[INFO: AODV-DEMO ] ENERGY 29 710001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 72 720001
+[INFO: AODV-DEMO ] ENERGY 28 720001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 72 720001
+[INFO: AODV-DEMO ] ENERGY 28 720001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 72 720001
+[INFO: AODV-DEMO ] ENERGY 28 720001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 72 720001
+[INFO: AODV-DEMO ] ENERGY 28 720001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 72 720001
+[INFO: AODV-DEMO ] ENERGY 28 720001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 72 720001
+[INFO: AODV-DEMO ] ENERGY 28 720001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 72 720001
+[INFO: AODV-DEMO ] ENERGY 28 720001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 72 720001
+[INFO: AODV-DEMO ] ENERGY 28 720001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 72 720001
+[INFO: AODV-DEMO ] ENERGY 28 720001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 72 720001
+[INFO: AODV-DEMO ] ENERGY 28 720001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 73 730001
+[INFO: AODV-DEMO ] ENERGY 27 730001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 73 730001
+[INFO: AODV-DEMO ] ENERGY 27 730001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 73 730001
+[INFO: AODV-DEMO ] ENERGY 27 730001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 73 730001
+[INFO: AODV-DEMO ] ENERGY 27 730001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 73 730001
+[INFO: AODV-DEMO ] ENERGY 27 730001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 73 730001
+[INFO: AODV-DEMO ] ENERGY 27 730001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 73 730001
+[INFO: AODV-DEMO ] ENERGY 27 730001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 73 730001
+[INFO: AODV-DEMO ] ENERGY 27 730001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 73 730001
+[INFO: AODV-DEMO ] ENERGY 27 730001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 73 730001
+[INFO: AODV-DEMO ] ENERGY 27 730001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 74 740001
+[INFO: AODV-DEMO ] ENERGY 26 740001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 74 740001
+[INFO: AODV-DEMO ] ENERGY 26 740001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 74 740001
+[INFO: AODV-DEMO ] ENERGY 26 740001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 74 740001
+[INFO: AODV-DEMO ] ENERGY 26 740001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 74 740001
+[INFO: AODV-DEMO ] ENERGY 26 740001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 74 740001
+[INFO: AODV-DEMO ] ENERGY 26 740001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 74 740001
+[INFO: AODV-DEMO ] ENERGY 26 740001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 74 740001
+[INFO: AODV-DEMO ] ENERGY 26 740001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 74 740001
+[INFO: AODV-DEMO ] ENERGY 26 740001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 74 740001
+[INFO: AODV-DEMO ] ENERGY 26 740001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 75 750001
+[INFO: AODV-DEMO ] ENERGY 25 750001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 75 750001
+[INFO: AODV-DEMO ] ENERGY 25 750001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 75 750001
+[INFO: AODV-DEMO ] ENERGY 25 750001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 75 750001
+[INFO: AODV-DEMO ] ENERGY 25 750001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 75 750001
+[INFO: AODV-DEMO ] ENERGY 25 750001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 75 750001
+[INFO: AODV-DEMO ] ENERGY 25 750001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 75 750001
+[INFO: AODV-DEMO ] ENERGY 25 750001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 75 750001
+[INFO: AODV-DEMO ] ENERGY 25 750001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 75 750001
+[INFO: AODV-DEMO ] ENERGY 25 750001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 75 750001
+[INFO: AODV-DEMO ] ENERGY 25 750001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 76 760001
+[INFO: AODV-DEMO ] ENERGY 24 760001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 76 760001
+[INFO: AODV-DEMO ] ENERGY 24 760001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 76 760001
+[INFO: AODV-DEMO ] ENERGY 24 760001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 76 760001
+[INFO: AODV-DEMO ] ENERGY 24 760001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 76 760001
+[INFO: AODV-DEMO ] ENERGY 24 760001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 76 760001
+[INFO: AODV-DEMO ] ENERGY 24 760001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 76 760001
+[INFO: AODV-DEMO ] ENERGY 24 760001
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 76 760001
+[INFO: AODV-DEMO ] ENERGY 24 760001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 76 760001
+[INFO: AODV-DEMO ] ENERGY 24 760001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 76 760001
+[INFO: AODV-DEMO ] ENERGY 24 760001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 77 770001
+[INFO: AODV-DEMO ] ENERGY 23 770001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 77 770001
+[INFO: AODV-DEMO ] ENERGY 23 770001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 77 770001
+[INFO: AODV-DEMO ] ENERGY 23 770001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 77 770001
+[INFO: AODV-DEMO ] ENERGY 23 770001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 77 770001
+[INFO: AODV-DEMO ] ENERGY 23 770001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 77 770001
+[INFO: AODV-DEMO ] ENERGY 23 770001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 77 770001
+[INFO: AODV-DEMO ] ENERGY 23 770001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 77 770001
+[INFO: AODV-DEMO ] ENERGY 23 770001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 77 770001
+[INFO: AODV-DEMO ] ENERGY 23 770001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 77 770001
+[INFO: AODV-DEMO ] ENERGY 23 770001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 78 780001
+[INFO: AODV-DEMO ] ENERGY 22 780001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 78 780001
+[INFO: AODV-DEMO ] ENERGY 22 780001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 78 780001
+[INFO: AODV-DEMO ] ENERGY 22 780001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 78 780001
+[INFO: AODV-DEMO ] ENERGY 22 780001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 78 780001
+[INFO: AODV-DEMO ] ENERGY 22 780001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 78 780001
+[INFO: AODV-DEMO ] ENERGY 22 780001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 78 780001
+[INFO: AODV-DEMO ] ENERGY 22 780001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 78 780001
+[INFO: AODV-DEMO ] ENERGY 22 780001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 78 780001
+[INFO: AODV-DEMO ] ENERGY 22 780001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 78 780001
+[INFO: AODV-DEMO ] ENERGY 22 780001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 79 790001
+[INFO: AODV-DEMO ] ENERGY 21 790001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 79 790001
+[INFO: AODV-DEMO ] ENERGY 21 790001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 79 790001
+[INFO: AODV-DEMO ] ENERGY 21 790001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 79 790001
+[INFO: AODV-DEMO ] ENERGY 21 790001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 79 790001
+[INFO: AODV-DEMO ] ENERGY 21 790001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 79 790001
+[INFO: AODV-DEMO ] ENERGY 21 790001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 79 790001
+[INFO: AODV-DEMO ] ENERGY 21 790001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 79 790001
+[INFO: AODV-DEMO ] ENERGY 21 790001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 79 790001
+[INFO: AODV-DEMO ] ENERGY 21 790001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 79 790001
+[INFO: AODV-DEMO ] ENERGY 21 790001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 80 800001
+[INFO: AODV-DEMO ] ENERGY 20 800001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 80 800001
+[INFO: AODV-DEMO ] ENERGY 20 800001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 80 800001
+[INFO: AODV-DEMO ] ENERGY 20 800001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 80 800001
+[INFO: AODV-DEMO ] ENERGY 20 800001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 80 800001
+[INFO: AODV-DEMO ] ENERGY 20 800001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 80 800001
+[INFO: AODV-DEMO ] ENERGY 20 800001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 80 800001
+[INFO: AODV-DEMO ] ENERGY 20 800001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 80 800001
+[INFO: AODV-DEMO ] ENERGY 20 800001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 80 800001
+[INFO: AODV-DEMO ] ENERGY 20 800001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 80 800001
+[INFO: AODV-DEMO ] ENERGY 20 800001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 81 810001
+[INFO: AODV-DEMO ] ENERGY 19 810001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 81 810001
+[INFO: AODV-DEMO ] ENERGY 19 810001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 81 810001
+[INFO: AODV-DEMO ] ENERGY 19 810001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 81 810001
+[INFO: AODV-DEMO ] ENERGY 19 810001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 81 810001
+[INFO: AODV-DEMO ] ENERGY 19 810001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 81 810001
+[INFO: AODV-DEMO ] ENERGY 19 810001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 81 810001
+[INFO: AODV-DEMO ] ENERGY 19 810001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 81 810001
+[INFO: AODV-DEMO ] ENERGY 19 810001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 81 810001
+[INFO: AODV-DEMO ] ENERGY 19 810001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 81 810001
+[INFO: AODV-DEMO ] ENERGY 19 810001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 82 820001
+[INFO: AODV-DEMO ] ENERGY 18 820001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 82 820001
+[INFO: AODV-DEMO ] ENERGY 18 820001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 82 820001
+[INFO: AODV-DEMO ] ENERGY 18 820001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 82 820001
+[INFO: AODV-DEMO ] ENERGY 18 820001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 82 820001
+[INFO: AODV-DEMO ] ENERGY 18 820001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 82 820001
+[INFO: AODV-DEMO ] ENERGY 18 820001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 82 820001
+[INFO: AODV-DEMO ] ENERGY 18 820001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 82 820001
+[INFO: AODV-DEMO ] ENERGY 18 820001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 82 820001
+[INFO: AODV-DEMO ] ENERGY 18 820001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 82 820001
+[INFO: AODV-DEMO ] ENERGY 18 820001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 83 830001
+[INFO: AODV-DEMO ] ENERGY 17 830001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 83 830001
+[INFO: AODV-DEMO ] ENERGY 17 830001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 83 830001
+[INFO: AODV-DEMO ] ENERGY 17 830001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 83 830001
+[INFO: AODV-DEMO ] ENERGY 17 830001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 83 830001
+[INFO: AODV-DEMO ] ENERGY 17 830001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 83 830001
+[INFO: AODV-DEMO ] ENERGY 17 830001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 83 830001
+[INFO: AODV-DEMO ] ENERGY 17 830001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 83 830001
+[INFO: AODV-DEMO ] ENERGY 17 830001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 83 830001
+[INFO: AODV-DEMO ] ENERGY 17 830001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 83 830001
+[INFO: AODV-DEMO ] ENERGY 17 830001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 84 840001
+[INFO: AODV-DEMO ] ENERGY 16 840001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 84 840001
+[INFO: AODV-DEMO ] ENERGY 16 840001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 84 840001
+[INFO: AODV-DEMO ] ENERGY 16 840001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 84 840001
+[INFO: AODV-DEMO ] ENERGY 16 840001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 84 840001
+[INFO: AODV-DEMO ] ENERGY 16 840001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 84 840001
+[INFO: AODV-DEMO ] ENERGY 16 840001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 84 840001
+[INFO: AODV-DEMO ] ENERGY 16 840001
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 84 840001
+[INFO: AODV-DEMO ] ENERGY 16 840001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 84 840001
+[INFO: AODV-DEMO ] ENERGY 16 840001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 84 840001
+[INFO: AODV-DEMO ] ENERGY 16 840001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 85 850001
+[INFO: AODV-DEMO ] ENERGY 15 850001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 85 850001
+[INFO: AODV-DEMO ] ENERGY 15 850001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 85 850001
+[INFO: AODV-DEMO ] ENERGY 15 850001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 85 850001
+[INFO: AODV-DEMO ] ENERGY 15 850001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 85 850001
+[INFO: AODV-DEMO ] ENERGY 15 850001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 85 850001
+[INFO: AODV-DEMO ] ENERGY 15 850001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 85 850001
+[INFO: AODV-DEMO ] ENERGY 15 850001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 85 850001
+[INFO: AODV-DEMO ] ENERGY 15 850001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 85 850001
+[INFO: AODV-DEMO ] ENERGY 15 850001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 85 850001
+[INFO: AODV-DEMO ] ENERGY 15 850001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 86 860001
+[INFO: AODV-DEMO ] ENERGY 14 860001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 86 860001
+[INFO: AODV-DEMO ] ENERGY 14 860001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 86 860001
+[INFO: AODV-DEMO ] ENERGY 14 860001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 86 860001
+[INFO: AODV-DEMO ] ENERGY 14 860001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 86 860001
+[INFO: AODV-DEMO ] ENERGY 14 860001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 86 860001
+[INFO: AODV-DEMO ] ENERGY 14 860001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 86 860001
+[INFO: AODV-DEMO ] ENERGY 14 860001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 86 860001
+[INFO: AODV-DEMO ] ENERGY 14 860001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 86 860001
+[INFO: AODV-DEMO ] ENERGY 14 860001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 86 860001
+[INFO: AODV-DEMO ] ENERGY 14 860001
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 87 870001
+[INFO: AODV-DEMO ] ENERGY 13 870001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 87 870001
+[INFO: AODV-DEMO ] ENERGY 13 870001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 87 870001
+[INFO: AODV-DEMO ] ENERGY 13 870001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 87 870001
+[INFO: AODV-DEMO ] ENERGY 13 870001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 87 870001
+[INFO: AODV-DEMO ] ENERGY 13 870001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 87 870001
+[INFO: AODV-DEMO ] ENERGY 13 870001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 87 870001
+[INFO: AODV-DEMO ] ENERGY 13 870001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 87 870001
+[INFO: AODV-DEMO ] ENERGY 13 870001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 87 870001
+[INFO: AODV-DEMO ] ENERGY 13 870001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 87 870001
+[INFO: AODV-DEMO ] ENERGY 13 870001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 88 880001
+[INFO: AODV-DEMO ] ENERGY 12 880001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 88 880001
+[INFO: AODV-DEMO ] ENERGY 12 880001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 88 880001
+[INFO: AODV-DEMO ] ENERGY 12 880001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 88 880001
+[INFO: AODV-DEMO ] ENERGY 12 880001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 88 880001
+[INFO: AODV-DEMO ] ENERGY 12 880001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 88 880001
+[INFO: AODV-DEMO ] ENERGY 12 880001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 88 880001
+[INFO: AODV-DEMO ] ENERGY 12 880001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 88 880001
+[INFO: AODV-DEMO ] ENERGY 12 880001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 88 880001
+[INFO: AODV-DEMO ] ENERGY 12 880001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 88 880001
+[INFO: AODV-DEMO ] ENERGY 12 880001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 89 890001
+[INFO: AODV-DEMO ] ENERGY 11 890001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 89 890001
+[INFO: AODV-DEMO ] ENERGY 11 890001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 89 890001
+[INFO: AODV-DEMO ] ENERGY 11 890001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 89 890001
+[INFO: AODV-DEMO ] ENERGY 11 890001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 89 890001
+[INFO: AODV-DEMO ] ENERGY 11 890001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 89 890001
+[INFO: AODV-DEMO ] ENERGY 11 890001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 89 890001
+[INFO: AODV-DEMO ] ENERGY 11 890001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 89 890001
+[INFO: AODV-DEMO ] ENERGY 11 890001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 89 890001
+[INFO: AODV-DEMO ] ENERGY 11 890001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 89 890001
+[INFO: AODV-DEMO ] ENERGY 11 890001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 90 900001
+[INFO: AODV-DEMO ] ENERGY 10 900001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 90 900001
+[INFO: AODV-DEMO ] ENERGY 10 900001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 90 900001
+[INFO: AODV-DEMO ] ENERGY 10 900001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 90 900001
+[INFO: AODV-DEMO ] ENERGY 10 900001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 90 900001
+[INFO: AODV-DEMO ] ENERGY 10 900001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 90 900001
+[INFO: AODV-DEMO ] ENERGY 10 900001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 90 900001
+[INFO: AODV-DEMO ] ENERGY 10 900001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 90 900001
+[INFO: AODV-DEMO ] ENERGY 10 900001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 90 900001
+[INFO: AODV-DEMO ] ENERGY 10 900001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 90 900001
+[INFO: AODV-DEMO ] ENERGY 10 900001
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 91 910001
+[INFO: AODV-DEMO ] ENERGY 9 910001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 91 910001
+[INFO: AODV-DEMO ] ENERGY 9 910001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 91 910001
+[INFO: AODV-DEMO ] ENERGY 9 910001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 91 910001
+[INFO: AODV-DEMO ] ENERGY 9 910001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 91 910001
+[INFO: AODV-DEMO ] ENERGY 9 910001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 91 910001
+[INFO: AODV-DEMO ] ENERGY 9 910001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 91 910001
+[INFO: AODV-DEMO ] ENERGY 9 910001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 91 910001
+[INFO: AODV-DEMO ] ENERGY 9 910001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 91 910001
+[INFO: AODV-DEMO ] ENERGY 9 910001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 91 910001
+[INFO: AODV-DEMO ] ENERGY 9 910001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 92 920001
+[INFO: AODV-DEMO ] ENERGY 8 920001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 92 920001
+[INFO: AODV-DEMO ] ENERGY 8 920001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 92 920001
+[INFO: AODV-DEMO ] ENERGY 8 920001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 92 920001
+[INFO: AODV-DEMO ] ENERGY 8 920001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 92 920001
+[INFO: AODV-DEMO ] ENERGY 8 920001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 92 920001
+[INFO: AODV-DEMO ] ENERGY 8 920001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 92 920001
+[INFO: AODV-DEMO ] ENERGY 8 920001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 92 920001
+[INFO: AODV-DEMO ] ENERGY 8 920001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 92 920001
+[INFO: AODV-DEMO ] ENERGY 8 920001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 92 920001
+[INFO: AODV-DEMO ] ENERGY 8 920001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 93 930001
+[INFO: AODV-DEMO ] ENERGY 7 930001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 93 930001
+[INFO: AODV-DEMO ] ENERGY 7 930001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 93 930001
+[INFO: AODV-DEMO ] ENERGY 7 930001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 93 930001
+[INFO: AODV-DEMO ] ENERGY 7 930001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 93 930001
+[INFO: AODV-DEMO ] ENERGY 7 930001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 93 930001
+[INFO: AODV-DEMO ] ENERGY 7 930001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 93 930001
+[INFO: AODV-DEMO ] ENERGY 7 930001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 93 930001
+[INFO: AODV-DEMO ] ENERGY 7 930001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 93 930001
+[INFO: AODV-DEMO ] ENERGY 7 930001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 93 930001
+[INFO: AODV-DEMO ] ENERGY 7 930001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 94 940001
+[INFO: AODV-DEMO ] ENERGY 6 940001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 94 940001
+[INFO: AODV-DEMO ] ENERGY 6 940001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 94 940001
+[INFO: AODV-DEMO ] ENERGY 6 940001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 94 940001
+[INFO: AODV-DEMO ] ENERGY 6 940001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 94 940001
+[INFO: AODV-DEMO ] ENERGY 6 940001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 94 940001
+[INFO: AODV-DEMO ] ENERGY 6 940001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 94 940001
+[INFO: AODV-DEMO ] ENERGY 6 940001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 94 940001
+[INFO: AODV-DEMO ] ENERGY 6 940001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 94 940001
+[INFO: AODV-DEMO ] ENERGY 6 940001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 94 940001
+[INFO: AODV-DEMO ] ENERGY 6 940001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 95 950001
+[INFO: AODV-DEMO ] ENERGY 5 950001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 95 950001
+[INFO: AODV-DEMO ] ENERGY 5 950001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 95 950001
+[INFO: AODV-DEMO ] ENERGY 5 950001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 95 950001
+[INFO: AODV-DEMO ] ENERGY 5 950001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 95 950001
+[INFO: AODV-DEMO ] ENERGY 5 950001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 95 950001
+[INFO: AODV-DEMO ] ENERGY 5 950001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 95 950001
+[INFO: AODV-DEMO ] ENERGY 5 950001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 95 950001
+[INFO: AODV-DEMO ] ENERGY 5 950001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 95 950001
+[INFO: AODV-DEMO ] ENERGY 5 950001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 95 950001
+[INFO: AODV-DEMO ] ENERGY 5 950001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 96 960001
+[INFO: AODV-DEMO ] ENERGY 4 960001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 96 960001
+[INFO: AODV-DEMO ] ENERGY 4 960001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 96 960001
+[INFO: AODV-DEMO ] ENERGY 4 960001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 96 960001
+[INFO: AODV-DEMO ] ENERGY 4 960001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 96 960001
+[INFO: AODV-DEMO ] ENERGY 4 960001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 96 960001
+[INFO: AODV-DEMO ] ENERGY 4 960001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 96 960001
+[INFO: AODV-DEMO ] ENERGY 4 960001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 96 960001
+[INFO: AODV-DEMO ] ENERGY 4 960001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 96 960001
+[INFO: AODV-DEMO ] ENERGY 4 960001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 96 960001
+[INFO: AODV-DEMO ] ENERGY 4 960001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 97 970001
+[INFO: AODV-DEMO ] ENERGY 3 970001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 97 970001
+[INFO: AODV-DEMO ] ENERGY 3 970001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 97 970001
+[INFO: AODV-DEMO ] ENERGY 3 970001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 97 970001
+[INFO: AODV-DEMO ] ENERGY 3 970001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 97 970001
+[INFO: AODV-DEMO ] ENERGY 3 970001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 97 970001
+[INFO: AODV-DEMO ] ENERGY 3 970001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 97 970001
+[INFO: AODV-DEMO ] ENERGY 3 970001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 97 970001
+[INFO: AODV-DEMO ] ENERGY 3 970001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 97 970001
+[INFO: AODV-DEMO ] ENERGY 3 970001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 97 970001
+[INFO: AODV-DEMO ] ENERGY 3 970001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 98 980001
+[INFO: AODV-DEMO ] ENERGY 2 980001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 98 980001
+[INFO: AODV-DEMO ] ENERGY 2 980001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 98 980001
+[INFO: AODV-DEMO ] ENERGY 2 980001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 98 980001
+[INFO: AODV-DEMO ] ENERGY 2 980001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 98 980001
+[INFO: AODV-DEMO ] ENERGY 2 980001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 98 980001
+[INFO: AODV-DEMO ] ENERGY 2 980001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 98 980001
+[INFO: AODV-DEMO ] ENERGY 2 980001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 98 980001
+[INFO: AODV-DEMO ] ENERGY 2 980001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 98 980001
+[INFO: AODV-DEMO ] ENERGY 2 980001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 98 980001
+[INFO: AODV-DEMO ] ENERGY 2 980001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 99 990001
+[INFO: AODV-DEMO ] ENERGY 1 990001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 99 990001
+[INFO: AODV-DEMO ] ENERGY 1 990001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 99 990001
+[INFO: AODV-DEMO ] ENERGY 1 990001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 99 990001
+[INFO: AODV-DEMO ] ENERGY 1 990001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 99 990001
+[INFO: AODV-DEMO ] ENERGY 1 990001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 99 990001
+[INFO: AODV-DEMO ] ENERGY 1 990001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 99 990001
+[INFO: AODV-DEMO ] ENERGY 1 990001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 99 990001
+[INFO: AODV-DEMO ] ENERGY 1 990001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 99 990001
+[INFO: AODV-DEMO ] ENERGY 1 990001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 99 990001
+[INFO: AODV-DEMO ] ENERGY 1 990001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 100 1000001
+[INFO: AODV-DEMO ] ENERGY 0 1000001
+[INFO: AODV-DEMO ] LIFETIME 0 1000001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 100 1000001
+[INFO: AODV-DEMO ] ENERGY 0 1000001
+[INFO: AODV-DEMO ] LIFETIME 0 1000001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 100 1000001
+[INFO: AODV-DEMO ] ENERGY 0 1000001
+[INFO: AODV-DEMO ] LIFETIME 0 1000001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 100 1000001
+[INFO: AODV-DEMO ] ENERGY 0 1000001
+[INFO: AODV-DEMO ] LIFETIME 0 1000001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 100 1000001
+[INFO: AODV-DEMO ] ENERGY 0 1000001
+[INFO: AODV-DEMO ] LIFETIME 0 1000001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 100 1000001
+[INFO: AODV-DEMO ] ENERGY 0 1000001
+[INFO: AODV-DEMO ] LIFETIME 0 1000001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 100 1000001
+[INFO: AODV-DEMO ] ENERGY 0 1000001
+[INFO: AODV-DEMO ] LIFETIME 0 1000001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 100 1000001
+[INFO: AODV-DEMO ] ENERGY 0 1000001
+[INFO: AODV-DEMO ] LIFETIME 0 1000001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 100 1000001
+[INFO: AODV-DEMO ] ENERGY 0 1000001
+[INFO: AODV-DEMO ] LIFETIME 0 1000001
+[ERR : TCP/IP    ] output: Destination address unspecified[INFO: AODV-DEMO ] SEND_UDP 100 1000001
+[INFO: AODV-DEMO ] ENERGY 0 1000001
+[INFO: AODV-DEMO ] LIFETIME 0 1000001
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+TEST TIMEOUT
+TEST FAILED
+Test ended at simulation time: 1200000000

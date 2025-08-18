@@ -1,0 +1,9 @@
+[16:43:15 - main] [Cooja.java:1356] [INFO] - > Starting Cooja
+[16:43:15 - main] [Cooja.java:2880] [INFO] - External tools default settings: /external_tools_linux_64.config
+[16:43:15 - main] [Cooja.java:2910] [INFO] - External tools user settings: /home/belacel/.cooja.user.properties
+[16:43:16 - main] [Cooja.java:1362] [INFO] - > Creating simulation
+[16:43:19 - AWT-EventQueue-0] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[16:43:19 - main] [Visualizer.java:256] [INFO] - Registered external visualizer: org.contikios.cooja.plugins.skins.DGRMVisualizerSkin
+[16:43:20 - main] [Cooja.java:1372] [INFO] - > Creating mote type
+[16:43:48 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make d-seran.cooja TARGET=cooja 
+[16:44:09 - main] [Cooja.java:1380] [FATAL] - Mote type initialization failed, aborting quickstart

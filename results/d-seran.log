@@ -1,0 +1,2265 @@
+Random seed: 123456
+[INFO: Main      ] - Routing: RPL Lite
+[INFO: Main      ] - Net: sicslowpan
+[INFO: Main      ] - MAC: CSMA
+[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+[INFO: Main      ] - 802.15.4 Default channel: 26
+[INFO: Main      ] Node ID: 0
+[INFO: Main      ] Link-layer address: 0000.0000.0000.0000
+[INFO: Main      ] Tentative link-local IPv6 address: fe80::200:0:0:0
+[INFO: D-SERAN   ] D-SERAN initialisￃﾩ
+[INFO: Main      ] Starting Contiki-NG-develop/v5.0-51-g1d9dcfbd6-dirty
+[INFO: Main      ] - Routing: RPL Lite
+[INFO: Main      ] - Net: sicslowpan
+[INFO: Main      ] - MAC: CSMA
+[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+[INFO: Main      ] - 802.15.4 Default channel: 26
+[INFO: Main      ] Node ID: 0
+[INFO: Main      ] Link-layer address: 0000.0000.0000.0000
+[INFO: Main      ] Tentative link-local IPv6 address: fe80::200:0:0:0
+[INFO: D-SERAN   ] D-SERAN initialisￃﾩ
+[INFO: Main      ] Starting Contiki-NG-develop/v5.0-51-g1d9dcfbd6-dirty
+[INFO: Main      ] - Routing: RPL Lite
+[INFO: Main      ] - Net: sicslowpan
+[INFO: Main      ] - MAC: CSMA
+[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+[INFO: Main      ] - 802.15.4 Default channel: 26
+[INFO: Main      ] Node ID: 0
+[INFO: Main      ] Link-layer address: 0000.0000.0000.0000
+[INFO: Main      ] Tentative link-local IPv6 address: fe80::200:0:0:0
+[INFO: D-SERAN   ] D-SERAN initialisￃﾩ
+[INFO: D-SERAN   ] ENERGY 100 2
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 2
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 2
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 10001
+[INFO: D-SERAN   ] ENERGY 100 4
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 10001
+[INFO: D-SERAN   ] ENERGY 100 4
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 10001
+[INFO: D-SERAN   ] ENERGY 100 4
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 6
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 6
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 6
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 20001
+[INFO: D-SERAN   ] ENERGY 100 8
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 20001
+[INFO: D-SERAN   ] ENERGY 100 8
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 20001
+[INFO: D-SERAN   ] ENERGY 100 8
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 10
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 10
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 10
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 30001
+[INFO: D-SERAN   ] ENERGY 100 12
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 30001
+[INFO: D-SERAN   ] ENERGY 100 12
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 30001
+[INFO: D-SERAN   ] ENERGY 100 12
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 14
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 14
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 14
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 40001
+[INFO: D-SERAN   ] ENERGY 100 16
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 40001
+[INFO: D-SERAN   ] ENERGY 100 16
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 40001
+[INFO: D-SERAN   ] ENERGY 100 16
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 18
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 18
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 18
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 50001
+[INFO: D-SERAN   ] ENERGY 100 20
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 50001
+[INFO: D-SERAN   ] ENERGY 100 20
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 50001
+[INFO: D-SERAN   ] ENERGY 100 20
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 22
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 22
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 22
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 60001
+[INFO: D-SERAN   ] ENERGY 100 24
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 60001
+[INFO: D-SERAN   ] ENERGY 100 24
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 60001
+[INFO: D-SERAN   ] ENERGY 100 24
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 26
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 26
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 26
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 70001
+[INFO: D-SERAN   ] ENERGY 100 28
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 70001
+[INFO: D-SERAN   ] ENERGY 100 28
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 70001
+[INFO: D-SERAN   ] ENERGY 100 28
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 30
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 30
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 30
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 80001
+[INFO: D-SERAN   ] ENERGY 100 32
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 80001
+[INFO: D-SERAN   ] ENERGY 100 32
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 80001
+[INFO: D-SERAN   ] ENERGY 100 32
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 34
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 34
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 34
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 90001
+[INFO: D-SERAN   ] ENERGY 100 36
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 90001
+[INFO: D-SERAN   ] ENERGY 100 36
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 90001
+[INFO: D-SERAN   ] ENERGY 100 36
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 38
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 38
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 38
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 100001
+[INFO: D-SERAN   ] ENERGY 100 40
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 100001
+[INFO: D-SERAN   ] ENERGY 100 40
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 100001
+[INFO: D-SERAN   ] ENERGY 100 40
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 42
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 42
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 42
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 110001
+[INFO: D-SERAN   ] ENERGY 100 44
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 110001
+[INFO: D-SERAN   ] ENERGY 100 44
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 110001
+[INFO: D-SERAN   ] ENERGY 100 44
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 46
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 46
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 46
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 120001
+[INFO: D-SERAN   ] ENERGY 100 48
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 120001
+[INFO: D-SERAN   ] ENERGY 100 48
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 120001
+[INFO: D-SERAN   ] ENERGY 100 48
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 50
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 50
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 50
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 130001
+[INFO: D-SERAN   ] ENERGY 100 52
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 130001
+[INFO: D-SERAN   ] ENERGY 100 52
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 130001
+[INFO: D-SERAN   ] ENERGY 100 52
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 54
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 54
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 54
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 140001
+[INFO: D-SERAN   ] ENERGY 100 56
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 140001
+[INFO: D-SERAN   ] ENERGY 100 56
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 140001
+[INFO: D-SERAN   ] ENERGY 100 56
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 58
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 58
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 58
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 150001
+[INFO: D-SERAN   ] ENERGY 100 60
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 150001
+[INFO: D-SERAN   ] ENERGY 100 60
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 150001
+[INFO: D-SERAN   ] ENERGY 100 60
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 62
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 62
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 62
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 160001
+[INFO: D-SERAN   ] ENERGY 100 64
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 160001
+[INFO: D-SERAN   ] ENERGY 100 64
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 160001
+[INFO: D-SERAN   ] ENERGY 100 64
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 66
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 66
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 66
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 170001
+[INFO: D-SERAN   ] ENERGY 100 68
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 170001
+[INFO: D-SERAN   ] ENERGY 100 68
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 170001
+[INFO: D-SERAN   ] ENERGY 100 68
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 70
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 70
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 70
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 180001
+[INFO: D-SERAN   ] ENERGY 100 72
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 180001
+[INFO: D-SERAN   ] ENERGY 100 72
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 180001
+[INFO: D-SERAN   ] ENERGY 100 72
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 74
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 74
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 74
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 190001
+[INFO: D-SERAN   ] ENERGY 100 76
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 190001
+[INFO: D-SERAN   ] ENERGY 100 76
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 190001
+[INFO: D-SERAN   ] ENERGY 100 76
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 78
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 78
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 78
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 200001
+[INFO: D-SERAN   ] ENERGY 100 80
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 200001
+[INFO: D-SERAN   ] ENERGY 100 80
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 200001
+[INFO: D-SERAN   ] ENERGY 100 80
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 82
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 82
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 82
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 210001
+[INFO: D-SERAN   ] ENERGY 100 84
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 210001
+[INFO: D-SERAN   ] ENERGY 100 84
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 210001
+[INFO: D-SERAN   ] ENERGY 100 84
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 86
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 86
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 86
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 220001
+[INFO: D-SERAN   ] ENERGY 100 88
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 220001
+[INFO: D-SERAN   ] ENERGY 100 88
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 220001
+[INFO: D-SERAN   ] ENERGY 100 88
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 90
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 90
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 90
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 230001
+[INFO: D-SERAN   ] ENERGY 100 92
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 230001
+[INFO: D-SERAN   ] ENERGY 100 92
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 230001
+[INFO: D-SERAN   ] ENERGY 100 92
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 94
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 94
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 94
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 240001
+[INFO: D-SERAN   ] ENERGY 100 96
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 240001
+[INFO: D-SERAN   ] ENERGY 100 96
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 240001
+[INFO: D-SERAN   ] ENERGY 100 96
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 98
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 98
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 98
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 250001
+[INFO: D-SERAN   ] ENERGY 100 100
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 250001
+[INFO: D-SERAN   ] ENERGY 100 100
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 250001
+[INFO: D-SERAN   ] ENERGY 100 100
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 102
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 102
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 102
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 260001
+[INFO: D-SERAN   ] ENERGY 100 104
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 260001
+[INFO: D-SERAN   ] ENERGY 100 104
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 260001
+[INFO: D-SERAN   ] ENERGY 100 104
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 106
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 106
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 106
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 270001
+[INFO: D-SERAN   ] ENERGY 100 108
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 270001
+[INFO: D-SERAN   ] ENERGY 100 108
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 270001
+[INFO: D-SERAN   ] ENERGY 100 108
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 110
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 110
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 110
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 280001
+[INFO: D-SERAN   ] ENERGY 100 112
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 280001
+[INFO: D-SERAN   ] ENERGY 100 112
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 280001
+[INFO: D-SERAN   ] ENERGY 100 112
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 114
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 114
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 114
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 290001
+[INFO: D-SERAN   ] ENERGY 100 116
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 290001
+[INFO: D-SERAN   ] ENERGY 100 116
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 290001
+[INFO: D-SERAN   ] ENERGY 100 116
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 118
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 118
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 118
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 300001
+[INFO: D-SERAN   ] ENERGY 100 120
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 300001
+[INFO: D-SERAN   ] ENERGY 100 120
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 300001
+[INFO: D-SERAN   ] ENERGY 100 120
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 122
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 122
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 122
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 310001
+[INFO: D-SERAN   ] ENERGY 100 124
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 310001
+[INFO: D-SERAN   ] ENERGY 100 124
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 310001
+[INFO: D-SERAN   ] ENERGY 100 124
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 126
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 126
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 126
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 320001
+[INFO: D-SERAN   ] ENERGY 100 128
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 320001
+[INFO: D-SERAN   ] ENERGY 100 128
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 320001
+[INFO: D-SERAN   ] ENERGY 100 128
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 130
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 130
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 130
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 330001
+[INFO: D-SERAN   ] ENERGY 100 132
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 330001
+[INFO: D-SERAN   ] ENERGY 100 132
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 330001
+[INFO: D-SERAN   ] ENERGY 100 132
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 134
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 134
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 134
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 340001
+[INFO: D-SERAN   ] ENERGY 100 136
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 340001
+[INFO: D-SERAN   ] ENERGY 100 136
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 340001
+[INFO: D-SERAN   ] ENERGY 100 136
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 138
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 138
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 138
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 350001
+[INFO: D-SERAN   ] ENERGY 100 140
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 350001
+[INFO: D-SERAN   ] ENERGY 100 140
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 350001
+[INFO: D-SERAN   ] ENERGY 100 140
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 142
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 142
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 142
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 360001
+[INFO: D-SERAN   ] ENERGY 100 144
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 360001
+[INFO: D-SERAN   ] ENERGY 100 144
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 360001
+[INFO: D-SERAN   ] ENERGY 100 144
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 146
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 146
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 146
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 370001
+[INFO: D-SERAN   ] ENERGY 100 148
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 370001
+[INFO: D-SERAN   ] ENERGY 100 148
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 370001
+[INFO: D-SERAN   ] ENERGY 100 148
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 150
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 150
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 150
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 380001
+[INFO: D-SERAN   ] ENERGY 100 152
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 380001
+[INFO: D-SERAN   ] ENERGY 100 152
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 380001
+[INFO: D-SERAN   ] ENERGY 100 152
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 154
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 154
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 154
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 390001
+[INFO: D-SERAN   ] ENERGY 100 156
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 390001
+[INFO: D-SERAN   ] ENERGY 100 156
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 390001
+[INFO: D-SERAN   ] ENERGY 100 156
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 158
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 158
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 158
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 400001
+[INFO: D-SERAN   ] ENERGY 100 160
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 400001
+[INFO: D-SERAN   ] ENERGY 100 160
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 400001
+[INFO: D-SERAN   ] ENERGY 100 160
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 162
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 162
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 162
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 410001
+[INFO: D-SERAN   ] ENERGY 100 164
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 410001
+[INFO: D-SERAN   ] ENERGY 100 164
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 410001
+[INFO: D-SERAN   ] ENERGY 100 164
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 166
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 166
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 166
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 420001
+[INFO: D-SERAN   ] ENERGY 100 168
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 420001
+[INFO: D-SERAN   ] ENERGY 100 168
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 420001
+[INFO: D-SERAN   ] ENERGY 100 168
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 170
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 170
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 170
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 430001
+[INFO: D-SERAN   ] ENERGY 100 172
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 430001
+[INFO: D-SERAN   ] ENERGY 100 172
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 430001
+[INFO: D-SERAN   ] ENERGY 100 172
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 174
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 174
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 174
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 440001
+[INFO: D-SERAN   ] ENERGY 100 176
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 440001
+[INFO: D-SERAN   ] ENERGY 100 176
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 440001
+[INFO: D-SERAN   ] ENERGY 100 176
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 178
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 178
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 178
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 450001
+[INFO: D-SERAN   ] ENERGY 100 180
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 450001
+[INFO: D-SERAN   ] ENERGY 100 180
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 450001
+[INFO: D-SERAN   ] ENERGY 100 180
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 182
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 182
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 182
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 460001
+[INFO: D-SERAN   ] ENERGY 100 184
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 460001
+[INFO: D-SERAN   ] ENERGY 100 184
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 460001
+[INFO: D-SERAN   ] ENERGY 100 184
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 186
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 186
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 186
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 470001
+[INFO: D-SERAN   ] ENERGY 100 188
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 470001
+[INFO: D-SERAN   ] ENERGY 100 188
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 470001
+[INFO: D-SERAN   ] ENERGY 100 188
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 190
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 190
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 190
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 480001
+[INFO: D-SERAN   ] ENERGY 100 192
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 480001
+[INFO: D-SERAN   ] ENERGY 100 192
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 480001
+[INFO: D-SERAN   ] ENERGY 100 192
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 194
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 194
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 194
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 490001
+[INFO: D-SERAN   ] ENERGY 100 196
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 490001
+[INFO: D-SERAN   ] ENERGY 100 196
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 490001
+[INFO: D-SERAN   ] ENERGY 100 196
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 198
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 198
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 198
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 500001
+[INFO: D-SERAN   ] ENERGY 100 200
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 500001
+[INFO: D-SERAN   ] ENERGY 100 200
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 500001
+[INFO: D-SERAN   ] ENERGY 100 200
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 202
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 202
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 202
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 510001
+[INFO: D-SERAN   ] ENERGY 100 204
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 510001
+[INFO: D-SERAN   ] ENERGY 100 204
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 510001
+[INFO: D-SERAN   ] ENERGY 100 204
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 206
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 206
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 206
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 520001
+[INFO: D-SERAN   ] ENERGY 100 208
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 520001
+[INFO: D-SERAN   ] ENERGY 100 208
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 520001
+[INFO: D-SERAN   ] ENERGY 100 208
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 210
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 210
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 210
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 530001
+[INFO: D-SERAN   ] ENERGY 100 212
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 530001
+[INFO: D-SERAN   ] ENERGY 100 212
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 530001
+[INFO: D-SERAN   ] ENERGY 100 212
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 214
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 214
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 214
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 540001
+[INFO: D-SERAN   ] ENERGY 100 216
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 540001
+[INFO: D-SERAN   ] ENERGY 100 216
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 540001
+[INFO: D-SERAN   ] ENERGY 100 216
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 218
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 218
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 218
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 550001
+[INFO: D-SERAN   ] ENERGY 100 220
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 550001
+[INFO: D-SERAN   ] ENERGY 100 220
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 550001
+[INFO: D-SERAN   ] ENERGY 100 220
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 222
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 222
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 222
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 560001
+[INFO: D-SERAN   ] ENERGY 100 224
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 560001
+[INFO: D-SERAN   ] ENERGY 100 224
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 560001
+[INFO: D-SERAN   ] ENERGY 100 224
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 226
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 226
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 226
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 570001
+[INFO: D-SERAN   ] ENERGY 100 228
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 570001
+[INFO: D-SERAN   ] ENERGY 100 228
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 570001
+[INFO: D-SERAN   ] ENERGY 100 228
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 230
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 230
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 230
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 580001
+[INFO: D-SERAN   ] ENERGY 100 232
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 580001
+[INFO: D-SERAN   ] ENERGY 100 232
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 580001
+[INFO: D-SERAN   ] ENERGY 100 232
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 234
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 234
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 234
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 590001
+[INFO: D-SERAN   ] ENERGY 100 236
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 590001
+[INFO: D-SERAN   ] ENERGY 100 236
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 590001
+[INFO: D-SERAN   ] ENERGY 100 236
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 238
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 238
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 238
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 600001
+[INFO: D-SERAN   ] ENERGY 100 240
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 600001
+[INFO: D-SERAN   ] ENERGY 100 240
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 600001
+[INFO: D-SERAN   ] ENERGY 100 240
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 242
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 242
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 242
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 610001
+[INFO: D-SERAN   ] ENERGY 100 244
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 610001
+[INFO: D-SERAN   ] ENERGY 100 244
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 610001
+[INFO: D-SERAN   ] ENERGY 100 244
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 246
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 246
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 246
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 620001
+[INFO: D-SERAN   ] ENERGY 100 248
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 620001
+[INFO: D-SERAN   ] ENERGY 100 248
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 620001
+[INFO: D-SERAN   ] ENERGY 100 248
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 250
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 250
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 250
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 630001
+[INFO: D-SERAN   ] ENERGY 100 252
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 630001
+[INFO: D-SERAN   ] ENERGY 100 252
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 630001
+[INFO: D-SERAN   ] ENERGY 100 252
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 254
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 254
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 254
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 640001
+[INFO: D-SERAN   ] ENERGY 100 256
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 640001
+[INFO: D-SERAN   ] ENERGY 100 256
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 640001
+[INFO: D-SERAN   ] ENERGY 100 256
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 258
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 258
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 258
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 650001
+[INFO: D-SERAN   ] ENERGY 100 260
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 650001
+[INFO: D-SERAN   ] ENERGY 100 260
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 650001
+[INFO: D-SERAN   ] ENERGY 100 260
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 262
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 262
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 262
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 660001
+[INFO: D-SERAN   ] ENERGY 100 264
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 660001
+[INFO: D-SERAN   ] ENERGY 100 264
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 660001
+[INFO: D-SERAN   ] ENERGY 100 264
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 266
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 266
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 266
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 670001
+[INFO: D-SERAN   ] ENERGY 100 268
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 670001
+[INFO: D-SERAN   ] ENERGY 100 268
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 670001
+[INFO: D-SERAN   ] ENERGY 100 268
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 270
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 270
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 270
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 680001
+[INFO: D-SERAN   ] ENERGY 100 272
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 680001
+[INFO: D-SERAN   ] ENERGY 100 272
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 680001
+[INFO: D-SERAN   ] ENERGY 100 272
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 274
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 274
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 274
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 690001
+[INFO: D-SERAN   ] ENERGY 100 276
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 690001
+[INFO: D-SERAN   ] ENERGY 100 276
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 690001
+[INFO: D-SERAN   ] ENERGY 100 276
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 278
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 278
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 278
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 700001
+[INFO: D-SERAN   ] ENERGY 100 280
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 700001
+[INFO: D-SERAN   ] ENERGY 100 280
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 700001
+[INFO: D-SERAN   ] ENERGY 100 280
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 282
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 282
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 282
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 710001
+[INFO: D-SERAN   ] ENERGY 100 284
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 710001
+[INFO: D-SERAN   ] ENERGY 100 284
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 710001
+[INFO: D-SERAN   ] ENERGY 100 284
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 286
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 286
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 286
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 720001
+[INFO: D-SERAN   ] ENERGY 100 288
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 720001
+[INFO: D-SERAN   ] ENERGY 100 288
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 720001
+[INFO: D-SERAN   ] ENERGY 100 288
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 290
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 290
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 290
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 730001
+[INFO: D-SERAN   ] ENERGY 100 292
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 730001
+[INFO: D-SERAN   ] ENERGY 100 292
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 730001
+[INFO: D-SERAN   ] ENERGY 100 292
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 294
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 294
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 294
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 740001
+[INFO: D-SERAN   ] ENERGY 100 296
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 740001
+[INFO: D-SERAN   ] ENERGY 100 296
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 740001
+[INFO: D-SERAN   ] ENERGY 100 296
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 298
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 298
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 298
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 750001
+[INFO: D-SERAN   ] ENERGY 100 300
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 750001
+[INFO: D-SERAN   ] ENERGY 100 300
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 750001
+[INFO: D-SERAN   ] ENERGY 100 300
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 302
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 302
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 302
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 760001
+[INFO: D-SERAN   ] ENERGY 100 304
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 760001
+[INFO: D-SERAN   ] ENERGY 100 304
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 760001
+[INFO: D-SERAN   ] ENERGY 100 304
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 306
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 306
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 306
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 770001
+[INFO: D-SERAN   ] ENERGY 100 308
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 770001
+[INFO: D-SERAN   ] ENERGY 100 308
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 770001
+[INFO: D-SERAN   ] ENERGY 100 308
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 310
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 310
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 310
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 780001
+[INFO: D-SERAN   ] ENERGY 100 312
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 780001
+[INFO: D-SERAN   ] ENERGY 100 312
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 780001
+[INFO: D-SERAN   ] ENERGY 100 312
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 314
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 314
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 314
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 790001
+[INFO: D-SERAN   ] ENERGY 100 316
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 790001
+[INFO: D-SERAN   ] ENERGY 100 316
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 790001
+[INFO: D-SERAN   ] ENERGY 100 316
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 318
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 318
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 318
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 800001
+[INFO: D-SERAN   ] ENERGY 100 320
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 800001
+[INFO: D-SERAN   ] ENERGY 100 320
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 800001
+[INFO: D-SERAN   ] ENERGY 100 320
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 322
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 322
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 322
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 810001
+[INFO: D-SERAN   ] ENERGY 100 324
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 810001
+[INFO: D-SERAN   ] ENERGY 100 324
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 810001
+[INFO: D-SERAN   ] ENERGY 100 324
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 326
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 326
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 326
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 820001
+[INFO: D-SERAN   ] ENERGY 100 328
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 820001
+[INFO: D-SERAN   ] ENERGY 100 328
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 820001
+[INFO: D-SERAN   ] ENERGY 100 328
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 330
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 330
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 330
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 830001
+[INFO: D-SERAN   ] ENERGY 100 332
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 830001
+[INFO: D-SERAN   ] ENERGY 100 332
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 830001
+[INFO: D-SERAN   ] ENERGY 100 332
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 334
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 334
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 334
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 840001
+[INFO: D-SERAN   ] ENERGY 100 336
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 840001
+[INFO: D-SERAN   ] ENERGY 100 336
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 840001
+[INFO: D-SERAN   ] ENERGY 100 336
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 338
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 338
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 338
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 850001
+[INFO: D-SERAN   ] ENERGY 100 340
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 850001
+[INFO: D-SERAN   ] ENERGY 100 340
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 850001
+[INFO: D-SERAN   ] ENERGY 100 340
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 342
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 342
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 342
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 860001
+[INFO: D-SERAN   ] ENERGY 100 344
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 860001
+[INFO: D-SERAN   ] ENERGY 100 344
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 860001
+[INFO: D-SERAN   ] ENERGY 100 344
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 346
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 346
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 346
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 870001
+[INFO: D-SERAN   ] ENERGY 100 348
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 870001
+[INFO: D-SERAN   ] ENERGY 100 348
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 870001
+[INFO: D-SERAN   ] ENERGY 100 348
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 350
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 350
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 350
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 880001
+[INFO: D-SERAN   ] ENERGY 100 352
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 880001
+[INFO: D-SERAN   ] ENERGY 100 352
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 880001
+[INFO: D-SERAN   ] ENERGY 100 352
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 354
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 354
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 354
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 890001
+[INFO: D-SERAN   ] ENERGY 100 356
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 890001
+[INFO: D-SERAN   ] ENERGY 100 356
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 890001
+[INFO: D-SERAN   ] ENERGY 100 356
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 358
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 358
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 358
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 900001
+[INFO: D-SERAN   ] ENERGY 100 360
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 900001
+[INFO: D-SERAN   ] ENERGY 100 360
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 900001
+[INFO: D-SERAN   ] ENERGY 100 360
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 362
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 362
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 362
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 910001
+[INFO: D-SERAN   ] ENERGY 100 364
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 910001
+[INFO: D-SERAN   ] ENERGY 100 364
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 910001
+[INFO: D-SERAN   ] ENERGY 100 364
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 366
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 366
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 366
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 920001
+[INFO: D-SERAN   ] ENERGY 100 368
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 920001
+[INFO: D-SERAN   ] ENERGY 100 368
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 920001
+[INFO: D-SERAN   ] ENERGY 100 368
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 370
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 370
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 370
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 930001
+[INFO: D-SERAN   ] ENERGY 100 372
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 930001
+[INFO: D-SERAN   ] ENERGY 100 372
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 930001
+[INFO: D-SERAN   ] ENERGY 100 372
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 374
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 374
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 374
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 940001
+[INFO: D-SERAN   ] ENERGY 100 376
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 940001
+[INFO: D-SERAN   ] ENERGY 100 376
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 940001
+[INFO: D-SERAN   ] ENERGY 100 376
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 378
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 378
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 378
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 950001
+[INFO: D-SERAN   ] ENERGY 100 380
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 950001
+[INFO: D-SERAN   ] ENERGY 100 380
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 950001
+[INFO: D-SERAN   ] ENERGY 100 380
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 382
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 382
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 382
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 960001
+[INFO: D-SERAN   ] ENERGY 100 384
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 960001
+[INFO: D-SERAN   ] ENERGY 100 384
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 960001
+[INFO: D-SERAN   ] ENERGY 100 384
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 386
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 386
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 386
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 970001
+[INFO: D-SERAN   ] ENERGY 100 388
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 970001
+[INFO: D-SERAN   ] ENERGY 100 388
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 970001
+[INFO: D-SERAN   ] ENERGY 100 388
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 390
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 390
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 390
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 980001
+[INFO: D-SERAN   ] ENERGY 100 392
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 980001
+[INFO: D-SERAN   ] ENERGY 100 392
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 980001
+[INFO: D-SERAN   ] ENERGY 100 392
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 394
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 394
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 394
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 990001
+[INFO: D-SERAN   ] ENERGY 100 396
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 990001
+[INFO: D-SERAN   ] ENERGY 100 396
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 990001
+[INFO: D-SERAN   ] ENERGY 100 396
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 398
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 398
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 398
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1000001
+[INFO: D-SERAN   ] ENERGY 100 400
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1000001
+[INFO: D-SERAN   ] ENERGY 100 400
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1000001
+[INFO: D-SERAN   ] ENERGY 100 400
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 402
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 402
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 402
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1010001
+[INFO: D-SERAN   ] ENERGY 100 404
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1010001
+[INFO: D-SERAN   ] ENERGY 100 404
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1010001
+[INFO: D-SERAN   ] ENERGY 100 404
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 406
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 406
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 406
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1020001
+[INFO: D-SERAN   ] ENERGY 100 408
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1020001
+[INFO: D-SERAN   ] ENERGY 100 408
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1020001
+[INFO: D-SERAN   ] ENERGY 100 408
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 410
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 410
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 410
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 1030001
+[INFO: D-SERAN   ] ENERGY 100 412
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1030001
+[INFO: D-SERAN   ] ENERGY 100 412
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1030001
+[INFO: D-SERAN   ] ENERGY 100 412
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 414
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 414
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 414
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1040001
+[INFO: D-SERAN   ] ENERGY 100 416
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1040001
+[INFO: D-SERAN   ] ENERGY 100 416
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1040001
+[INFO: D-SERAN   ] ENERGY 100 416
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 418
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 418
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 418
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1050001
+[INFO: D-SERAN   ] ENERGY 100 420
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1050001
+[INFO: D-SERAN   ] ENERGY 100 420
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1050001
+[INFO: D-SERAN   ] ENERGY 100 420
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 422
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 422
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 422
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 1060001
+[INFO: D-SERAN   ] ENERGY 100 424
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1060001
+[INFO: D-SERAN   ] ENERGY 100 424
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1060001
+[INFO: D-SERAN   ] ENERGY 100 424
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 426
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 426
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 426
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1070001
+[INFO: D-SERAN   ] ENERGY 100 428
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1070001
+[INFO: D-SERAN   ] ENERGY 100 428
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1070001
+[INFO: D-SERAN   ] ENERGY 100 428
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 430
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 430
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 430
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1080001
+[INFO: D-SERAN   ] ENERGY 100 432
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1080001
+[INFO: D-SERAN   ] ENERGY 100 432
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1080001
+[INFO: D-SERAN   ] ENERGY 100 432
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 434
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 434
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 434
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1090001
+[INFO: D-SERAN   ] ENERGY 100 436
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1090001
+[INFO: D-SERAN   ] ENERGY 100 436
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1090001
+[INFO: D-SERAN   ] ENERGY 100 436
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 438
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 438
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 438
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 1100001
+[INFO: D-SERAN   ] ENERGY 100 440
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1100001
+[INFO: D-SERAN   ] ENERGY 100 440
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1100001
+[INFO: D-SERAN   ] ENERGY 100 440
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 442
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 442
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 442
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1110001
+[INFO: D-SERAN   ] ENERGY 100 444
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1110001
+[INFO: D-SERAN   ] ENERGY 100 444
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1110001
+[INFO: D-SERAN   ] ENERGY 100 444
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 446
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 446
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 446
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1120001
+[INFO: D-SERAN   ] ENERGY 100 448
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1120001
+[INFO: D-SERAN   ] ENERGY 100 448
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1120001
+[INFO: D-SERAN   ] ENERGY 100 448
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 450
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 450
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 450
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] SEND_UDP 100 1130001
+[INFO: D-SERAN   ] ENERGY 100 452
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1130001
+[INFO: D-SERAN   ] ENERGY 100 452
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1130001
+[INFO: D-SERAN   ] ENERGY 100 452
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 454
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 454
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 454
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1140001
+[INFO: D-SERAN   ] ENERGY 100 456
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1140001
+[INFO: D-SERAN   ] ENERGY 100 456
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1140001
+[INFO: D-SERAN   ] ENERGY 100 456
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 458
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 458
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 458
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1150001
+[INFO: D-SERAN   ] ENERGY 100 460
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1150001
+[INFO: D-SERAN   ] ENERGY 100 460
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1150001
+[INFO: D-SERAN   ] ENERGY 100 460
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 462
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 462
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 462
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1160001
+[INFO: D-SERAN   ] ENERGY 100 464
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1160001
+[INFO: D-SERAN   ] ENERGY 100 464
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1160001
+[INFO: D-SERAN   ] ENERGY 100 464
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 466
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 466
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 466
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1170001
+[INFO: D-SERAN   ] ENERGY 100 468
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1170001
+[INFO: D-SERAN   ] ENERGY 100 468
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1170001
+[INFO: D-SERAN   ] ENERGY 100 468
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+[WARN: CSMA      ] frame from ourselves
+[INFO: D-SERAN   ] ENERGY 100 470
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 470
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 470
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1180001
+[INFO: D-SERAN   ] ENERGY 100 472
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1180001
+[INFO: D-SERAN   ] ENERGY 100 472
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1180001
+[INFO: D-SERAN   ] ENERGY 100 472
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 474
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 474
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 474
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1190001
+[INFO: D-SERAN   ] ENERGY 100 476
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1190001
+[INFO: D-SERAN   ] ENERGY 100 476
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] SEND_UDP 100 1190001
+[INFO: D-SERAN   ] ENERGY 100 476
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 478
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 478
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[INFO: D-SERAN   ] ENERGY 100 478
+[WARN: D-SERAN   ] Aucun voisin fiable pour le routage
+[WARN: CSMA      ] frame from ourselves
+TEST TIMEOUT
+TEST FAILED
+Test ended at simulation time: 1200000000

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simconf>
+  <title>D-SERAN MANET 10 nodes</title>
+  <description>Comparaison D-SERAN vs AODV - 10 nœuds mobiles, UDP, Random Waypoint, 1h</description>
+  <randomseed>12345</randomseed>
+  <motedelay_us>1000</motedelay_us>
+  <radiomedium>org.contikios.cooja.radiomediums.UDGM</radiomedium>
+  <motetype>
+    <identifier>dseran_mote</identifier>
+    <description>D-SERAN Mote</description>
+    <source>../src/d-seran.c</source>
+    <commands>make d-seran.cooja</commands>
+    <firmware>../src/d-seran.cooja</firmware>
+    <symbols></symbols>
+  </motetype>
+  <motes>
+    <!-- Placement initial aléatoire, mobilité gérée par script -->
+    <mote>
+      <motetype>dseran_mote</motetype>
+      <interface_config>
+        <interface_class>org.contikios.cooja.interfaces.Position</interface_class>
+        <x>20</x><y>20</y><z>0</z>
+      </interface_config>
+    </mote>
+    <!-- 9 autres nœuds -->
+    <mote><motetype>dseran_mote</motetype><interface_config><interface_class>org.contikios.cooja.interfaces.Position</interface_class><x>40</x><y>40</y><z>0</z></interface_config></mote>
+    <mote><motetype>dseran_mote</motetype><interface_config><interface_class>org.contikios.cooja.interfaces.Position</interface_class><x>60</x><y>60</y><z>0</z></interface_config></mote>
+    <mote><motetype>dseran_mote</motetype><interface_config><interface_class>org.contikios.cooja.interfaces.Position</interface_class><x>80</x><y>80</y><z>0</z></interface_config></mote>
+    <mote><motetype>dseran_mote</motetype><interface_config><interface_class>org.contikios.cooja.interfaces.Position</interface_class><x>100</x><y>100</y><z>0</z></interface_config></mote>
+    <mote><motetype>dseran_mote</motetype><interface_config><interface_class>org.contikios.cooja.interfaces.Position</interface_class><x>120</x><y>120</y><z>0</z></interface_config></mote>
+    <mote><motetype>dseran_mote</motetype><interface_config><interface_class>org.contikios.cooja.interfaces.Position</interface_class><x>140</x><y>140</y><z>0</z></interface_config></mote>
+    <mote><motetype>dseran_mote</motetype><interface_config><interface_class>org.contikios.cooja.interfaces.Position</interface_class><x>160</x><y>160</y><z>0</z></interface_config></mote>
+    <mote><motetype>dseran_mote</motetype><interface_config><interface_class>org.contikios.cooja.interfaces.Position</interface_class><x>180</x><y>180</y><z>0</z></interface_config></mote>
+    <mote><motetype>dseran_mote</motetype><interface_config><interface_class>org.contikios.cooja.interfaces.Position</interface_class><x>200</x><y>200</y><z>0</z></interface_config></mote>
+  </motes>
+  <events>
+    <event>
+      <time>3600000</time>
+      <command>quit</command>
+    </event>
+  </events>
+  <script>
+  <![CDATA[
+    // Script de mobilité et de génération de trafic
+    for(var i=0; i<10; i++) {
+      var mote = sim.getMote(i);
+      mote.setPosition(20+Math.random()*200, 20+Math.random()*200, 0);
+    }
+    log.log("Topologie initialisée\n");
+    // Mobilité toutes les 30s
+    TIMEOUT(30000, function moveMotes() {
+      for(var i=0; i<10; i++) {
+        var mote = sim.getMote(i);
+        mote.setPosition(20+Math.random()*200, 20+Math.random()*200, 0);
+      }
+      log.log("Mouvement des nœuds\n");
+      TIMEOUT(30000, moveMotes);
+    });
+    // (Suppression de l'injection de logs SEND_UDP ici)
+  ]]>
+  </script>
+</simconf> 
